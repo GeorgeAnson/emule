@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include
+END
+atlspriv.inl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlspriv.inl
+END
+atlcrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlcrypt.h
+END
+atlstencil.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlstencil.h
+END
+atlsoap.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlsoap.h
+END
+atlspriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlspriv.h
+END
+atlsmtpconnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlsmtpconnection.h
+END
+atlcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlcache.h
+END
+atlhtml.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlhtml.h
+END
+atlisapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlisapi.h
+END
+atlhttp.inl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlhttp.inl
+END
+atlserr.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlserr.h
+END
+atlhttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlhttp.h
+END
+atlsmtputil.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlsmtputil.h
+END
+atlsharedsvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlsharedsvc.h
+END
+atlsession.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlsession.h
+END
+atlsrvres.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlsrvres.h
+END
+atlextmgmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlextmgmt.h
+END
+atlperf.inl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlperf.inl
+END
+atlsrv.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlsrv.rc
+END
+atlmime.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlmime.h
+END
+include - Shortcut.lnk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/include%20-%20Shortcut.lnk
+END
+atlrx.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlrx.h
+END
+atlsiface.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlsiface.h
+END
+atlperf.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlperf.h
+END
+atlcrypt.inl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/atlcrypt.inl
+END

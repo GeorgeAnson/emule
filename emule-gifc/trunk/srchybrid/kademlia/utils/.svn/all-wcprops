@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/39/trunk/srchybrid/kademlia/utils
+END
+KadUDPKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/srchybrid/kademlia/utils/KadUDPKey.h
+END
+ThreadName.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/srchybrid/kademlia/utils/ThreadName.cpp
+END
+UInt128.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/39/trunk/srchybrid/kademlia/utils/UInt128.cpp
+END
+LookupHistory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/39/trunk/srchybrid/kademlia/utils/LookupHistory.cpp
+END
+LittleEndian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/srchybrid/kademlia/utils/LittleEndian.cpp
+END
+MiscUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/srchybrid/kademlia/utils/MiscUtils.cpp
+END
+ThreadName.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/srchybrid/kademlia/utils/ThreadName.h
+END
+UInt128.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/39/trunk/srchybrid/kademlia/utils/UInt128.h
+END
+LookupHistory.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/39/trunk/srchybrid/kademlia/utils/LookupHistory.h
+END
+KadClientSearcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/srchybrid/kademlia/utils/KadClientSearcher.h
+END
+LittleEndian.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/srchybrid/kademlia/utils/LittleEndian.h
+END
+MiscUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/srchybrid/kademlia/utils/MiscUtils.h
+END

@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 28
+build
+debug
+debug80
+release
+
+END

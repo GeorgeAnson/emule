@@ -1,0 +1,1745 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/45/standard/crypto51
+END
+gost.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/gost.h
+END
+cryptlib80.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/45/standard/crypto51/cryptlib80.vcproj
+END
+xtr.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/xtr.h
+END
+base32.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/base32.h
+END
+rng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/rng.cpp
+END
+cryptest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/cryptest.sln
+END
+cryptest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/45/standard/crypto51/cryptest.vcproj
+END
+ida.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/ida.h
+END
+oids.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/oids.h
+END
+xtrcrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/xtrcrypt.h
+END
+esign.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/esign.cpp
+END
+sosemanuk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/45/standard/crypto51/sosemanuk.cpp
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/zlib.h
+END
+modes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/modes.cpp
+END
+mars.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/mars.h
+END
+cbcmac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/cbcmac.cpp
+END
+filters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/filters.cpp
+END
+cryptlib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/45/standard/crypto51/cryptlib.vcproj
+END
+pch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/pch.cpp
+END
+dlltest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/dlltest.cpp
+END
+blowfish.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/blowfish.h
+END
+algparam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/algparam.cpp
+END
+rsa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/rsa.cpp
+END
+md2.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/md2.h
+END
+simple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/simple.cpp
+END
+nbtheory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/nbtheory.cpp
+END
+wake.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/wake.h
+END
+fipstest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/fipstest.cpp
+END
+trunhash.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/trunhash.h
+END
+safer.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/safer.h
+END
+salsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/salsa.h
+END
+sosemanuk.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/sosemanuk.h
+END
+esign.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/esign.h
+END
+factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/factory.h
+END
+sharkbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/sharkbox.cpp
+END
+cryptlib100.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/45/standard/crypto51/cryptlib100.vcxproj
+END
+twofish.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/twofish.cpp
+END
+md4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/md4.cpp
+END
+gf2_32.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/gf2_32.h
+END
+authenc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/authenc.cpp
+END
+arc4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/arc4.cpp
+END
+rsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/rsa.h
+END
+rc2.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/rc2.h
+END
+elgamal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/elgamal.cpp
+END
+tftables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/tftables.cpp
+END
+emsa2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/emsa2.cpp
+END
+mqv.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/mqv.h
+END
+base32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/base32.cpp
+END
+serpent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/serpent.cpp
+END
+adhoc.cpp.copied
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/45/standard/crypto51/adhoc.cpp.copied
+END
+rc2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/rc2.cpp
+END
+eccrypto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/eccrypto.cpp
+END
+cryptlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/cryptlib.cpp
+END
+rc6.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/rc6.cpp
+END
+adler32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/adler32.cpp
+END
+rw.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/45/standard/crypto51/rw.h
+END
+rijndael.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/rijndael.h
+END
+cast.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/cast.h
+END
+xtrcrypt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/xtrcrypt.cpp
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/misc.h
+END
+tigertab.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/tigertab.cpp
+END
+cryptlib_bds.bdsproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/45/standard/crypto51/cryptlib_bds.bdsproj
+END
+validat3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/validat3.cpp
+END
+hrtimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/hrtimer.cpp
+END
+casts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/casts.cpp
+END
+hmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/hmac.h
+END
+tiger.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/tiger.h
+END
+des.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/des.h
+END
+wake.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/wake.cpp
+END
+luc.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/luc.h
+END
+algparam.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/algparam.h
+END
+ec2n.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/ec2n.h
+END
+mdc.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/mdc.h
+END
+eprecomp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/eprecomp.cpp
+END
+bfinit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/bfinit.cpp
+END
+camellia.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/camellia.h
+END
+eax.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/eax.cpp
+END
+sha.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/sha.h
+END
+bench.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/bench.h
+END
+md4.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/md4.h
+END
+channels.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/channels.cpp
+END
+dh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/dh.cpp
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/cpu.h
+END
+gf256.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/gf256.h
+END
+zlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/zlib.cpp
+END
+idea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/idea.cpp
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/Doxyfile
+END
+cmac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/cmac.cpp
+END
+strciphr.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/strciphr.h
+END
+pubkey.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/pubkey.h
+END
+files.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/files.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/config.h
+END
+dll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/dll.cpp
+END
+iterhash.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/iterhash.h
+END
+regtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/regtest.cpp
+END
+gzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/gzip.h
+END
+lubyrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/lubyrack.h
+END
+eax.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/eax.h
+END
+randpool.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/randpool.h
+END
+modexppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/modexppc.h
+END
+md5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/md5.cpp
+END
+blumshub.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/blumshub.h
+END
+strciphr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/strciphr.cpp
+END
+validate.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/validate.h
+END
+safer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/safer.cpp
+END
+adler32.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/adler32.h
+END
+ccm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/ccm.cpp
+END
+wait.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/wait.cpp
+END
+tea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/tea.cpp
+END
+x64dll.asm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/x64dll.asm
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/crc.h
+END
+randpool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/randpool.cpp
+END
+cryptdll.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/45/standard/crypto51/cryptdll.vcproj
+END
+dessp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/dessp.cpp
+END
+socketft.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/socketft.cpp
+END
+ripemd.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/ripemd.h
+END
+ec2n.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/ec2n.cpp
+END
+twofish.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/twofish.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/md5.h
+END
+gf2n.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/gf2n.cpp
+END
+dlltest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/45/standard/crypto51/dlltest.vcproj
+END
+panama.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/panama.cpp
+END
+network.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/network.h
+END
+zdeflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/zdeflate.h
+END
+trdlocal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/trdlocal.cpp
+END
+skipjack.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/skipjack.h
+END
+mqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/mqueue.h
+END
+camellia.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/camellia.cpp
+END
+whrlpool.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/whrlpool.h
+END
+dh2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/dh2.cpp
+END
+aes.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/aes.h
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/License.txt
+END
+bench.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/bench.cpp
+END
+pch.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/pch.h
+END
+cryptlib90.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/45/standard/crypto51/cryptlib90.vcproj
+END
+pkcspad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/pkcspad.cpp
+END
+asn.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/asn.h
+END
+cpu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/cpu.cpp
+END
+rijndael.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/rijndael.cpp
+END
+rw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/rw.cpp
+END
+zdeflate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/zdeflate.cpp
+END
+fltrimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/fltrimpl.h
+END
+pwdbased.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/pwdbased.h
+END
+rc5.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/rc5.h
+END
+pubkey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/pubkey.cpp
+END
+nbtheory.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/nbtheory.h
+END
+rdtables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/rdtables.cpp
+END
+panama.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/panama.h
+END
+gfpcrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/gfpcrypt.h
+END
+square.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/square.h
+END
+whrlpool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/whrlpool.cpp
+END
+iterhash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/iterhash.cpp
+END
+hmac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/hmac.cpp
+END
+ttmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/ttmac.h
+END
+dh2.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/dh2.h
+END
+3way.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/3way.cpp
+END
+default.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/default.cpp
+END
+queue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/queue.cpp
+END
+seed.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/seed.h
+END
+marss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/marss.cpp
+END
+cryptest.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/cryptest.dsw
+END
+pkcspad.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/pkcspad.h
+END
+fips140.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/fips140.h
+END
+pssr.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/pssr.h
+END
+osrng.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/osrng.h
+END
+integer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/integer.cpp
+END
+x64masm.asm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/x64masm.asm
+END
+gfpcrypt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/gfpcrypt.cpp
+END
+mars.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/mars.cpp
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/GNUmakefile
+END
+crc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/crc.cpp
+END
+elgamal.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/elgamal.h
+END
+fipsalgt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/fipsalgt.cpp
+END
+wait.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/wait.h
+END
+dsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/dsa.h
+END
+modarith.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/modarith.h
+END
+shark.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/shark.h
+END
+md2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/md2.cpp
+END
+base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/base64.cpp
+END
+oaep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/oaep.cpp
+END
+seal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/seal.cpp
+END
+fips140.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/fips140.cpp
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/Readme.txt
+END
+vmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/vmac.h
+END
+rabin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/rabin.cpp
+END
+simple.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/simple.h
+END
+skipjack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/skipjack.cpp
+END
+rc6.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/rc6.h
+END
+channels.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/channels.h
+END
+dh.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/45/standard/crypto51/dh.h
+END
+gf2n.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/gf2n.h
+END
+integer.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/integer.h
+END
+cmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/cmac.h
+END
+trdlocal.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/trdlocal.h
+END
+hrtimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/hrtimer.h
+END
+dll.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/dll.h
+END
+gf2_32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/gf2_32.cpp
+END
+hex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/hex.cpp
+END
+vmac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/vmac.cpp
+END
+secblock.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/secblock.h
+END
+arc4.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/arc4.h
+END
+validat1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/validat1.cpp
+END
+cryptest_bds.bdsgroup
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/standard/crypto51/cryptest_bds.bdsgroup
+END
+ecp.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/ecp.h
+END
+zinflate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/zinflate.cpp
+END
+cbcmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/cbcmac.h
+END
+filters.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/filters.h
+END
+eprecomp.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/eprecomp.h
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/test.cpp
+END
+ripemd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/ripemd.cpp
+END
+adhoc.cpp.proto
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/45/standard/crypto51/adhoc.cpp.proto
+END
+smartptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/smartptr.h
+END
+cryptest_bds.bdsproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/45/standard/crypto51/cryptest_bds.bdsproj
+END
+squaretb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/squaretb.cpp
+END
+pssr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/pssr.cpp
+END
+gf256.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/gf256.cpp
+END
+default.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/default.h
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/queue.h
+END
+cast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/cast.cpp
+END
+argnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/argnames.h
+END
+winpipes.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/winpipes.h
+END
+salsa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/salsa.cpp
+END
+basecode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/basecode.cpp
+END
+idea.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/idea.h
+END
+dsa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/dsa.cpp
+END
+gzip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/gzip.cpp
+END
+tiger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/tiger.cpp
+END
+gost.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/gost.cpp
+END
+adhoc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/adhoc.cpp
+END
+cryptlib_bds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/45/standard/crypto51/cryptlib_bds.cpp
+END
+blumshub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/blumshub.cpp
+END
+nr.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/45/standard/crypto51/nr.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/base64.h
+END
+seal.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/seal.h
+END
+oaep.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/oaep.h
+END
+algebra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/algebra.cpp
+END
+winpipes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/winpipes.cpp
+END
+square.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/square.cpp
+END
+cryptopp.rc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/cryptopp.rc
+END
+stdcpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/stdcpp.h
+END
+mqv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/mqv.cpp
+END
+ccm.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/ccm.h
+END
+ttmac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/ttmac.cpp
+END
+basecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/basecode.h
+END
+gcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/gcm.h
+END
+modes.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/modes.h
+END
+shacal2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/shacal2.cpp
+END
+seed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/seed.cpp
+END
+serpent.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/serpent.h
+END
+socketft.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/socketft.h
+END
+osrng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/osrng.cpp
+END
+3way.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/3way.h
+END
+hex.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/hex.h
+END
+network.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/crypto51/network.cpp
+END
+cryptlib100.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/standard/crypto51/cryptlib100.vcxproj.filters
+END
+misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/misc.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/resource.h
+END
+cryptlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/cryptlib.h
+END
+eccrypto.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/eccrypto.h
+END
+mqueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/mqueue.cpp
+END
+bench2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/bench2.cpp
+END
+files.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/files.cpp
+END
+algebra.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/algebra.h
+END
+gcm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/gcm.cpp
+END
+ecp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/ecp.cpp
+END
+shark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/shark.cpp
+END
+datatest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/datatest.cpp
+END
+polynomi.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/polynomi.h
+END
+des.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/des.cpp
+END
+xtr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/xtr.cpp
+END
+zinflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/zinflate.h
+END
+asn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/asn.cpp
+END
+shacal2.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/shacal2.h
+END
+luc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/luc.cpp
+END
+seckey.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/standard/crypto51/seckey.h
+END
+rc5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/rc5.cpp
+END
+cryptest_bds.bpf
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/45/standard/crypto51/cryptest_bds.bpf
+END
+rng.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/rng.h
+END
+authenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/standard/crypto51/authenc.h
+END
+ida.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/ida.cpp
+END
+rabin.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/rabin.h
+END
+words.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/words.h
+END
+serpentp.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/standard/crypto51/serpentp.h
+END
+validat2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/validat2.cpp
+END
+polynomi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/polynomi.cpp
+END
+dmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/standard/crypto51/dmac.h
+END
+sha.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/sha.cpp
+END
+emsa2.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/standard/crypto51/emsa2.h
+END
+blowfish.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/standard/crypto51/blowfish.cpp
+END
+tea.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/45/standard/crypto51/tea.h
+END

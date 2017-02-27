@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/53/trunk/id3lib
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/id3lib/COPYING
+END
+reconf
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/id3lib/reconf
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/33/trunk/id3lib/NEWS
+END
+makefile.win32
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/33/trunk/id3lib/makefile.win32
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/33/trunk/id3lib/mkinstalldirs
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/33/trunk/id3lib/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/id3lib/ChangeLog
+END
+config.h.win32
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/id3lib/config.h.win32
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/id3lib/README
+END
+acconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/id3lib/acconfig.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/id3lib/config.h.in
+END
+config.h.win32.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/id3lib/config.h.win32.in
+END
+id3lib.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/33/trunk/id3lib/id3lib.spec.in
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/33/trunk/id3lib/TODO
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/id3lib/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/id3lib/missing
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/id3lib/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/id3lib/install-sh
+END
+id3lib80.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/33/trunk/id3lib/id3lib80.vcproj
+END
+id3lib100.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/33/trunk/id3lib/id3lib100.vcxproj
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/id3lib/configure
+END
+id3lib90.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/33/trunk/id3lib/id3lib90.vcproj
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/id3lib/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/id3lib/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/id3lib/depcomp
+END
+THANKS
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/33/trunk/id3lib/THANKS
+END
+id3lib100.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/33/trunk/id3lib/id3lib100.vcxproj.filters
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/id3lib/config.guess
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/id3lib/config.h
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/id3lib/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/id3lib/config.sub
+END
+id3lib.spec
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/33/trunk/id3lib/id3lib.spec
+END
+HISTORY
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/33/trunk/id3lib/HISTORY
+END
+win32.readme.first.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/id3lib/win32.readme.first.txt
+END
+ltconfig
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/id3lib/ltconfig
+END
+makewin32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/33/trunk/id3lib/makewin32.bat
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/id3lib/INSTALL
+END

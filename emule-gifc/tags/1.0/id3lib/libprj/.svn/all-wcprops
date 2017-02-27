@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/28/tags/1.0/id3lib/libprj
+END
+id3lib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/id3lib/libprj/id3lib.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/id3lib/libprj/Makefile.am
+END
+id3lib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/id3lib/libprj/id3lib.dsp
+END
+id3lib.sln
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/id3lib/libprj/id3lib.sln
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/id3lib/libprj/Makefile.in
+END
+win32.readme.first.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/28/tags/1.0/id3lib/libprj/win32.readme.first.txt
+END
+id3lib.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/id3lib/libprj/id3lib.dsw
+END
+id3lib.mcp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/id3lib/libprj/id3lib.mcp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/44/standard/id3lib/m4
+END
+id3_cxx.m4
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/44/standard/id3lib/m4/id3_cxx.m4
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/44/standard/id3lib/m4/Makefile.in
+END
+id3_unicode.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/44/standard/id3lib/m4/id3_unicode.m4
+END
+id3_debug.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/44/standard/id3lib/m4/id3_debug.m4
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/44/standard/id3lib/m4/Makefile.am
+END

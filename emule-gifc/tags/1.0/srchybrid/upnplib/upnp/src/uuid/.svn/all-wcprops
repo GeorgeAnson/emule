@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/src/uuid
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/src/uuid/md5.c
+END
+uuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/src/uuid/uuid.c
+END
+sysdep.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/src/uuid/sysdep.c
+END

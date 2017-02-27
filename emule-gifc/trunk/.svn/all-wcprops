@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/56/trunk
+END
+.hgignore
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/55/trunk/.hgignore
+END
+How-To-Compile_VS08.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/41/trunk/How-To-Compile_VS08.txt
+END
+Changelog.ScarAngel.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/56/trunk/Changelog.ScarAngel.txt
+END
+How-To-Compile_VS10.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/41/trunk/How-To-Compile_VS10.txt
+END
+How-To-Compile_VS05.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/41/trunk/How-To-Compile_VS05.txt
+END

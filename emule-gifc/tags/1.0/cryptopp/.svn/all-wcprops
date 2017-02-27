@@ -1,0 +1,1985 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/28/tags/1.0/cryptopp
+END
+ecp.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/ecp.h
+END
+hmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/hmac.h
+END
+filters.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/filters.h
+END
+adhoc.cpp.proto
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/cryptopp/adhoc.cpp.proto
+END
+3desval.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/3desval.dat
+END
+wake.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/wake.cpp
+END
+default.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/default.h
+END
+gf256.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/gf256.cpp
+END
+algparam.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/algparam.h
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/queue.h
+END
+ec2n.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/ec2n.h
+END
+dh2048.dat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/dh2048.dat
+END
+salsa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/salsa.cpp
+END
+dsa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/dsa.cpp
+END
+mqv2048.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/mqv2048.dat
+END
+eprecomp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/eprecomp.cpp
+END
+tiger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/tiger.cpp
+END
+bfinit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/bfinit.cpp
+END
+camellia.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/camellia.h
+END
+squareva.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/squareva.dat
+END
+adhoc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/adhoc.cpp
+END
+rc2val.dat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/rc2val.dat
+END
+luc1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/luc1024.dat
+END
+channels.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/channels.cpp
+END
+dh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/dh.cpp
+END
+algebra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/algebra.cpp
+END
+zlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/zlib.cpp
+END
+idea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/idea.cpp
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/Doxyfile
+END
+cryptopp.rc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/cryptopp.rc
+END
+strciphr.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/strciphr.h
+END
+mqv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/mqv.cpp
+END
+pubkey.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/pubkey.h
+END
+lucc512.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/lucc512.dat
+END
+elgc1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/elgc1024.dat
+END
+ttmac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/ttmac.cpp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/config.h
+END
+iterhash.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/iterhash.h
+END
+modes.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/modes.h
+END
+shacal2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/shacal2.cpp
+END
+gzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/gzip.h
+END
+rsa400pb.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/rsa400pb.dat
+END
+lubyrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/lubyrack.h
+END
+randpool.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/randpool.h
+END
+modexppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/modexppc.h
+END
+lucs512.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/lucs512.dat
+END
+serpent.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/serpent.h
+END
+blumshub.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/blumshub.h
+END
+luc2048.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/luc2048.dat
+END
+osrng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/osrng.cpp
+END
+hex.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/hex.h
+END
+saferval.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/saferval.dat
+END
+network.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/network.cpp
+END
+strciphr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/strciphr.cpp
+END
+validate.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/validate.h
+END
+sharkval.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/sharkval.dat
+END
+files.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/files.cpp
+END
+algebra.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/algebra.h
+END
+wait.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/wait.cpp
+END
+rsa512a.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/rsa512a.dat
+END
+rsa400pv.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/rsa400pv.dat
+END
+ecp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/ecp.cpp
+END
+shark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/shark.cpp
+END
+des.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/des.cpp
+END
+xtr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/xtr.cpp
+END
+randpool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/randpool.cpp
+END
+asn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/asn.cpp
+END
+socketft.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/socketft.cpp
+END
+shacal2.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/shacal2.h
+END
+luc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/luc.cpp
+END
+ripemd.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/ripemd.h
+END
+ec2n.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/ec2n.cpp
+END
+shacal2v.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/shacal2v.dat
+END
+esig2046.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/esig2046.dat
+END
+rc5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/rc5.cpp
+END
+usage.dat
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/usage.dat
+END
+rng.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/rng.h
+END
+marsval.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/marsval.dat
+END
+gf2n.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/gf2n.cpp
+END
+dlltest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/cryptopp/dlltest.vcproj
+END
+ida.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/ida.cpp
+END
+panama.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/panama.cpp
+END
+rabin.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/rabin.h
+END
+words.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/words.h
+END
+zdeflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/zdeflate.h
+END
+trdlocal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/trdlocal.cpp
+END
+skipjack.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/skipjack.h
+END
+mqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/mqueue.h
+END
+camellia.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/camellia.cpp
+END
+sha.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/sha.cpp
+END
+whrlpool.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/whrlpool.h
+END
+emsa2.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/emsa2.h
+END
+tea.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/tea.h
+END
+descert.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/descert.dat
+END
+cryptlib80.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/cryptopp/cryptlib80.vcproj
+END
+xtr.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/xtr.h
+END
+rng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/rng.cpp
+END
+rijndael.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/rijndael.cpp
+END
+rw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/rw.cpp
+END
+cryptest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/cryptopp/cryptest.vcproj
+END
+zdeflate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/zdeflate.cpp
+END
+fltrimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/fltrimpl.h
+END
+pwdbased.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/pwdbased.h
+END
+pubkey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/pubkey.cpp
+END
+nbtheory.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/nbtheory.h
+END
+rdtables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/rdtables.cpp
+END
+ida.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/ida.h
+END
+panama.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/panama.h
+END
+gfpcrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/gfpcrypt.h
+END
+esign.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/esign.cpp
+END
+sosemanuk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/cryptopp/sosemanuk.cpp
+END
+gostval.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/gostval.dat
+END
+square.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/square.h
+END
+whrlpool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/whrlpool.cpp
+END
+iterhash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/iterhash.cpp
+END
+modes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/modes.cpp
+END
+xtrdh171.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/xtrdh171.dat
+END
+filters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/filters.cpp
+END
+hmac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/hmac.cpp
+END
+cryptlib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/cryptopp/cryptlib.vcproj
+END
+pch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/pch.cpp
+END
+dlltest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/dlltest.cpp
+END
+lucc1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/lucc1024.dat
+END
+3way.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/3way.cpp
+END
+rsa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/rsa.cpp
+END
+md2.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/md2.h
+END
+cryptest.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/cryptest.dsw
+END
+esig1536.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/esig1536.dat
+END
+pssr.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/pssr.h
+END
+gfpcrypt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/gfpcrypt.cpp
+END
+mars.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/mars.cpp
+END
+lucs1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/lucs1024.dat
+END
+cast256v.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/cast256v.dat
+END
+safer.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/safer.h
+END
+salsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/salsa.h
+END
+xtrdh342.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/xtrdh342.dat
+END
+wait.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/wait.h
+END
+fipsalgt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/fipsalgt.cpp
+END
+sosemanuk.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/sosemanuk.h
+END
+esign.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/esign.h
+END
+rabi1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/rabi1024.dat
+END
+factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/factory.h
+END
+modarith.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/modarith.h
+END
+3wayval.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/3wayval.dat
+END
+rc5val.dat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/rc5val.dat
+END
+twofish.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/twofish.cpp
+END
+esig1023.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/esig1023.dat
+END
+base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/base64.cpp
+END
+oaep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/oaep.cpp
+END
+seal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/seal.cpp
+END
+md4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/md4.cpp
+END
+rw1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/rw1024.dat
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/Readme.txt
+END
+rsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/rsa.h
+END
+vmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/vmac.h
+END
+rc2.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/rc2.h
+END
+camellia.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/camellia.dat
+END
+simple.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/simple.h
+END
+skipjack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/skipjack.cpp
+END
+channels.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/channels.h
+END
+dh.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/28/tags/1.0/cryptopp/dh.h
+END
+gf2n.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/gf2n.h
+END
+cast128v.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/cast128v.dat
+END
+elgamal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/elgamal.cpp
+END
+emsa2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/emsa2.cpp
+END
+mqv.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/mqv.h
+END
+trdlocal.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/trdlocal.h
+END
+rijndael.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/rijndael.dat
+END
+serpent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/serpent.cpp
+END
+rabi2048.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/rabi2048.dat
+END
+gf2_32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/gf2_32.cpp
+END
+rc2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/rc2.cpp
+END
+vmac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/vmac.cpp
+END
+secblock.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/secblock.h
+END
+rc6.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/rc6.cpp
+END
+rw2048.dat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/rw2048.dat
+END
+adler32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/adler32.cpp
+END
+arc4.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/arc4.h
+END
+validat1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/validat1.cpp
+END
+hrtimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/hrtimer.cpp
+END
+zinflate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/zinflate.cpp
+END
+cbcmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/cbcmac.h
+END
+casts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/casts.cpp
+END
+eprecomp.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/eprecomp.h
+END
+tiger.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/tiger.h
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/test.cpp
+END
+ripemd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/ripemd.cpp
+END
+des.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/des.h
+END
+smartptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/smartptr.h
+END
+cryptest_bds.bdsproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/cryptopp/cryptest_bds.bdsproj
+END
+squaretb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/squaretb.cpp
+END
+pssr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/pssr.cpp
+END
+luc.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/luc.h
+END
+cast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/cast.cpp
+END
+argnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/argnames.h
+END
+winpipes.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/winpipes.h
+END
+lucd512.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/lucd512.dat
+END
+basecode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/basecode.cpp
+END
+idea.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/idea.h
+END
+mdc.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/mdc.h
+END
+gzip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/gzip.cpp
+END
+dlie1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/dlie1024.dat
+END
+gost.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/gost.cpp
+END
+cryptlib_bds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/cryptopp/cryptlib_bds.cpp
+END
+sha.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/sha.h
+END
+blumshub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/blumshub.cpp
+END
+bench.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/bench.h
+END
+nr.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/28/tags/1.0/cryptopp/nr.h
+END
+skipjack.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/skipjack.dat
+END
+md4.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/md4.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/base64.h
+END
+oaep.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/oaep.h
+END
+seal.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/seal.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/cpu.h
+END
+gf256.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/gf256.h
+END
+winpipes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/winpipes.cpp
+END
+square.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/square.cpp
+END
+stdcpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/stdcpp.h
+END
+files.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/files.h
+END
+basecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/basecode.h
+END
+dll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/dll.cpp
+END
+nr1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/nr1024.dat
+END
+regtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/regtest.cpp
+END
+dlie2048.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/dlie2048.dat
+END
+dsa512.dat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/dsa512.dat
+END
+md5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/md5.cpp
+END
+socketft.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/socketft.h
+END
+3way.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/3way.h
+END
+misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/misc.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/resource.h
+END
+cryptlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/cryptlib.h
+END
+eccrypto.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/eccrypto.h
+END
+safer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/safer.cpp
+END
+mqueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/mqueue.cpp
+END
+bench2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/bench2.cpp
+END
+adler32.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/adler32.h
+END
+tea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/tea.cpp
+END
+datatest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/datatest.cpp
+END
+polynomi.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/polynomi.h
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/crc.h
+END
+cryptdll.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/cryptopp/cryptdll.vcproj
+END
+dessp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/dessp.cpp
+END
+zinflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/zinflate.h
+END
+rsa1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/rsa1024.dat
+END
+nr2048.dat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/nr2048.dat
+END
+twofish.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/twofish.h
+END
+seckey.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/seckey.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/md5.h
+END
+cryptest_bds.bpf
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/cryptopp/cryptest_bds.bpf
+END
+serpentv.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/serpentv.dat
+END
+network.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/network.h
+END
+serpentp.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/serpentp.h
+END
+validat2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/validat2.cpp
+END
+polynomi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/polynomi.cpp
+END
+dmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/dmac.h
+END
+dh2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/dh2.cpp
+END
+blowfish.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/blowfish.cpp
+END
+aes.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/aes.h
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/License.txt
+END
+bench.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/bench.cpp
+END
+pch.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/pch.h
+END
+gost.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/gost.h
+END
+cryptlib90.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/cryptopp/cryptlib90.vcproj
+END
+base32.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/base32.h
+END
+pkcspad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/pkcspad.cpp
+END
+asn.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/asn.h
+END
+cpu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/cpu.cpp
+END
+cryptest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/cryptest.sln
+END
+rsa2048.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/rsa2048.dat
+END
+rc5.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/rc5.h
+END
+oids.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/oids.h
+END
+xtrcrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/xtrcrypt.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/zlib.h
+END
+mars.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/mars.h
+END
+cbcmac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/cbcmac.cpp
+END
+ttmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/ttmac.h
+END
+dh2.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/dh2.h
+END
+blowfish.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/blowfish.h
+END
+rc6val.dat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/rc6val.dat
+END
+default.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/default.cpp
+END
+queue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/queue.cpp
+END
+lucd1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/lucd1024.dat
+END
+algparam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/algparam.cpp
+END
+marss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/marss.cpp
+END
+simple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/simple.cpp
+END
+pkcspad.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/pkcspad.h
+END
+nbtheory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/nbtheory.cpp
+END
+fips140.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/fips140.h
+END
+wake.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/wake.h
+END
+integer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/integer.cpp
+END
+x64masm.asm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/x64masm.asm
+END
+osrng.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/osrng.h
+END
+twofishv.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/twofishv.dat
+END
+fipstest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/fipstest.cpp
+END
+trunhash.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/trunhash.h
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/GNUmakefile
+END
+dsa1024b.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/dsa1024b.dat
+END
+elgamal.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/elgamal.h
+END
+crc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/crc.cpp
+END
+dsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/dsa.h
+END
+shark.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/shark.h
+END
+sharkbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/sharkbox.cpp
+END
+md2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/md2.cpp
+END
+fips140.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/fips140.cpp
+END
+gf2_32.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/gf2_32.h
+END
+arc4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/cryptopp/arc4.cpp
+END
+rabin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/rabin.cpp
+END
+rc6.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/rc6.h
+END
+integer.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/integer.h
+END
+dsa1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/dsa1024.dat
+END
+tftables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/tftables.cpp
+END
+hrtimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/cryptopp/hrtimer.h
+END
+base32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/base32.cpp
+END
+dll.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/tags/1.0/cryptopp/dll.h
+END
+adhoc.cpp.copied
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/cryptopp/adhoc.cpp.copied
+END
+hex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/cryptopp/hex.cpp
+END
+eccrypto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/eccrypto.cpp
+END
+cryptlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/cryptlib.cpp
+END
+dh1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/dh1024.dat
+END
+ideaval.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/ideaval.dat
+END
+rw.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/28/tags/1.0/cryptopp/rw.h
+END
+rijndael.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/cryptopp/rijndael.h
+END
+xtrcrypt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/xtrcrypt.cpp
+END
+cast.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/cast.h
+END
+mqv1024.dat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/cryptopp/mqv1024.dat
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/cryptopp/misc.h
+END
+tigertab.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/tigertab.cpp
+END
+cryptlib_bds.bdsproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/cryptopp/cryptlib_bds.bdsproj
+END
+validat3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/cryptopp/validat3.cpp
+END
+cryptest_bds.bdsgroup
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/cryptopp/cryptest_bds.bdsgroup
+END

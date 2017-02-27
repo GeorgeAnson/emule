@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/44/standard/id3lib/include
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/44/standard/id3lib/include/Makefile.in
+END
+id3.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/44/standard/id3lib/include/id3.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/44/standard/id3lib/include/Makefile.am
+END

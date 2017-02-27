@@ -1,0 +1,3197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/28/tags/1.0/srchybrid
+END
+KCSideBannerWnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/KCSideBannerWnd.h
+END
+InputBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/InputBox.cpp
+END
+server.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/srchybrid/server.h
+END
+FrameGrabThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/FrameGrabThread.cpp
+END
+PPgNotify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgNotify.cpp
+END
+ColorButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/ColorButton.h
+END
+ToolBarCtrlX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/ToolBarCtrlX.cpp
+END
+PPgWebServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgWebServer.h
+END
+TextToSpeech.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/TextToSpeech.h
+END
+CreditsThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/CreditsThread.cpp
+END
+WebServices.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/WebServices.h
+END
+TreePropSheetPgFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/28/tags/1.0/srchybrid/TreePropSheetPgFrame.cpp
+END
+HelpIDs.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/HelpIDs.h
+END
+PreferencesDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/PreferencesDlg.h
+END
+UploadListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/UploadListCtrl.cpp
+END
+PartFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/PartFile.cpp
+END
+IrcNickListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/IrcNickListCtrl.h
+END
+PPgWebServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgWebServer.cpp
+END
+EditX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/EditX.cpp
+END
+StringConversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/StringConversion.h
+END
+SharedFilesCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/SharedFilesCtrl.h
+END
+FileDetailDialogName.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/28/tags/1.0/srchybrid/FileDetailDialogName.cpp
+END
+emule_site_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/emule_site_config.h
+END
+ListCtrlX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/ListCtrlX.cpp
+END
+emule.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/emule.vcproj
+END
+RARFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/RARFile.h
+END
+BtnST.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/BtnST.cpp
+END
+TreeOptionsCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/TreeOptionsCtrl.cpp
+END
+ClientUDPSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/ClientUDPSocket.cpp
+END
+NTService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/NTService.cpp
+END
+ListenSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/ListenSocket.cpp
+END
+TrayMenuBtn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/TrayMenuBtn.cpp
+END
+BaseClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/BaseClient.cpp
+END
+SR13-ImportParts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/SR13-ImportParts.cpp
+END
+IPFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/IPFilter.cpp
+END
+PPgFiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgFiles.h
+END
+DirectoryTreeCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/DirectoryTreeCtrl.h
+END
+MfcStaticBinaryCompatible.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28/tags/1.0/srchybrid/MfcStaticBinaryCompatible.cpp
+END
+HistoryListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/HistoryListCtrl.cpp
+END
+StatisticsDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/StatisticsDlg.h
+END
+ReadWriteLock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/ReadWriteLock.cpp
+END
+AskExitDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/AskExitDlg.cpp
+END
+BtnST.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/srchybrid/BtnST.h
+END
+NumEdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/NumEdit.cpp
+END
+ini2.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/srchybrid/ini2.h
+END
+PeerCacheFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/PeerCacheFinder.cpp
+END
+SearchWaitDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/SearchWaitDialog.cpp
+END
+ButtonsTabCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/ButtonsTabCtrl.cpp
+END
+PPgConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgConnection.h
+END
+EditDelayed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/EditDelayed.cpp
+END
+SR13-ImportParts.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/SR13-ImportParts.h
+END
+SearchParamsWnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/SearchParamsWnd.cpp
+END
+IP2Country.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/IP2Country.h
+END
+MuleListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/MuleListCtrl.cpp
+END
+ServerWnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/ServerWnd.h
+END
+IrcSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/IrcSocket.cpp
+END
+ED2kLinkDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/ED2kLinkDlg.cpp
+END
+SharedDirsTreeCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/tags/1.0/srchybrid/SharedDirsTreeCtrl.cpp
+END
+HttpDownloadDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/HttpDownloadDlg.cpp
+END
+AddSourceDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/AddSourceDlg.cpp
+END
+TreeOptionsInvisibleModCombo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/tags/1.0/srchybrid/TreeOptionsInvisibleModCombo.cpp
+END
+SettingsSaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/SettingsSaver.h
+END
+3DPreviewControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/3DPreviewControl.cpp
+END
+otherfunctions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/otherfunctions.cpp
+END
+MuleToolBarCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/MuleToolBarCtrl.cpp
+END
+StringConversion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/StringConversion.cpp
+END
+PPgMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgMessages.cpp
+END
+ButtonsTabCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/ButtonsTabCtrl.h
+END
+SearchWaitDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/SearchWaitDialog.h
+END
+CollectionListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/CollectionListCtrl.h
+END
+MiniMule.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/MiniMule.h
+END
+Pinger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/Pinger.cpp
+END
+IrcMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/IrcMain.h
+END
+AfxBeginMsgMapTemplate.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/28/tags/1.0/srchybrid/AfxBeginMsgMapTemplate.h
+END
+LayeredWindowHelperST.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28/tags/1.0/srchybrid/LayeredWindowHelperST.h
+END
+ShareableFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/ShareableFile.h
+END
+SplashScreenEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/SplashScreenEx.h
+END
+ED2kLinkDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/ED2kLinkDlg.h
+END
+PPgScar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgScar.cpp
+END
+Preferences.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/Preferences.cpp
+END
+TransferWnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/TransferWnd.h
+END
+KadSearchListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/tags/1.0/srchybrid/KadSearchListCtrl.cpp
+END
+SearchList.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/SearchList.h
+END
+ToolTipCtrlX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/ToolTipCtrlX.cpp
+END
+TimeTick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/TimeTick.cpp
+END
+InputBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/InputBox.h
+END
+DownloadClientsCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28/tags/1.0/srchybrid/DownloadClientsCtrl.cpp
+END
+MuleToolBarCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/MuleToolBarCtrl.h
+END
+otherfunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/otherfunctions.h
+END
+AsyncProxySocketLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/tags/1.0/srchybrid/AsyncProxySocketLayer.cpp
+END
+XMessageBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/XMessageBox.cpp
+END
+ThrottledSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/ThrottledSocket.h
+END
+MuleSystrayDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/MuleSystrayDlg.cpp
+END
+MemDC.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/srchybrid/MemDC.h
+END
+sapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/28/tags/1.0/srchybrid/sapi.h
+END
+SourceSaver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/SourceSaver.cpp
+END
+ED2KLink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/ED2KLink.cpp
+END
+WebServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/WebServer.cpp
+END
+TrayDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/TrayDialog.h
+END
+GZipFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/GZipFile.cpp
+END
+MetaDataDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/MetaDataDlg.h
+END
+ServerSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/ServerSocket.cpp
+END
+VisualStylesXP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/VisualStylesXP.cpp
+END
+PPgSecurity.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgSecurity.h
+END
+KademliaWnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/KademliaWnd.h
+END
+langids.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/langids.h
+END
+PShtWiz1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/PShtWiz1.cpp
+END
+VistaDefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/VistaDefines.h
+END
+SearchListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/SearchListCtrl.h
+END
+ListCtrlX.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/ListCtrlX.h
+END
+TreeOptionsInvisibleKeyCombo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/tags/1.0/srchybrid/TreeOptionsInvisibleKeyCombo.cpp
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/srchybrid/types.h
+END
+QueueListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/QueueListCtrl.h
+END
+CollectionViewDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/tags/1.0/srchybrid/CollectionViewDialog.h
+END
+CollectionListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/tags/1.0/srchybrid/CollectionListCtrl.cpp
+END
+TrayMenuBtn.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/TrayMenuBtn.h
+END
+3DPreviewControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/3DPreviewControl.h
+END
+SearchParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/SearchParams.h
+END
+parser.y
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/srchybrid/parser.y
+END
+ServerListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/ServerListCtrl.cpp
+END
+PPgIrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgIrc.h
+END
+MeterIcon.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/MeterIcon.h
+END
+PPgXtreme2.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgXtreme2.h
+END
+EnBitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/EnBitmap.h
+END
+SearchFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/SearchFile.cpp
+END
+DialogMinTrayBtn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/DialogMinTrayBtn.cpp
+END
+CBase64Coding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/CBase64Coding.cpp
+END
+TimeTick.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/TimeTick.h
+END
+SharedFilesCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/SharedFilesCtrl.cpp
+END
+SHA.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/srchybrid/SHA.h
+END
+AddFriend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/AddFriend.cpp
+END
+MMSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/MMSocket.cpp
+END
+mdump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/mdump.cpp
+END
+CommentListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/CommentListCtrl.cpp
+END
+Scheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/Scheduler.h
+END
+ChatSelector.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/ChatSelector.h
+END
+ClientDetailDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/ClientDetailDialog.h
+END
+CatDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/CatDialog.cpp
+END
+CollectionCreateDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/28/tags/1.0/srchybrid/CollectionCreateDialog.cpp
+END
+ClosableTabCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/ClosableTabCtrl.cpp
+END
+PerfLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/PerfLog.h
+END
+ServerList.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/ServerList.h
+END
+SplitterControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/SplitterControl.cpp
+END
+PPgTweaks.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgTweaks.h
+END
+PPgStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgStats.h
+END
+SHA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/srchybrid/SHA.cpp
+END
+ListenSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/ListenSocket.h
+END
+GZipFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/GZipFile.h
+END
+TextToSpeech.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/TextToSpeech.cpp
+END
+DropTarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/DropTarget.h
+END
+UPnP_IGDControlPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/28/tags/1.0/srchybrid/UPnP_IGDControlPoint.cpp
+END
+MuleStatusBarCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/tags/1.0/srchybrid/MuleStatusBarCtrl.cpp
+END
+LogEditCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/LogEditCtrl.h
+END
+ComboBoxEx2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/ComboBoxEx2.cpp
+END
+MD4.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/srchybrid/MD4.h
+END
+IESecurity.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/IESecurity.h
+END
+ListCtrlEditable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/ListCtrlEditable.cpp
+END
+parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/parser.cpp
+END
+TransferWnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/TransferWnd.cpp
+END
+CustomAutoComplete.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/CustomAutoComplete.h
+END
+QArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/srchybrid/QArray.h
+END
+Quantize.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/Quantize.h
+END
+URLClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/URLClient.h
+END
+StatisticFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/StatisticFile.cpp
+END
+CommentDialogLst.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/CommentDialogLst.h
+END
+PartFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/PartFile.h
+END
+DropTarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/DropTarget.cpp
+END
+PeerCacheFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/PeerCacheFinder.h
+END
+IP2Country.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/IP2Country.cpp
+END
+TreeOptionsInvisibleKeyCombo.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/tags/1.0/srchybrid/TreeOptionsInvisibleKeyCombo.h
+END
+AsyncSocketExLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/tags/1.0/srchybrid/AsyncSocketExLayer.cpp
+END
+Preview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/Preview.cpp
+END
+PPgScheduler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgScheduler.cpp
+END
+KeyHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/KeyHelper.cpp
+END
+MuleSystrayDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/MuleSystrayDlg.h
+END
+ListCtrlEditable.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/ListCtrlEditable.h
+END
+SivkaFileSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/SivkaFileSettings.h
+END
+FileDetailDialogInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/tags/1.0/srchybrid/FileDetailDialogInfo.h
+END
+SimpleCleanup.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/SimpleCleanup.h
+END
+IPFilterDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/IPFilterDlg.h
+END
+StatisticsTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/StatisticsTree.cpp
+END
+HyperTextCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/HyperTextCtrl.cpp
+END
+EncryptedStreamSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28/tags/1.0/srchybrid/EncryptedStreamSocket.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/stdafx.cpp
+END
+CreditsThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/CreditsThread.h
+END
+ListBoxST.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/ListBoxST.h
+END
+GDIThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/GDIThread.h
+END
+ClientCredits.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/ClientCredits.h
+END
+SharedFilesWnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/SharedFilesWnd.cpp
+END
+BuddyButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/BuddyButton.cpp
+END
+UploadListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/UploadListCtrl.h
+END
+LogEditCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/LogEditCtrl.cpp
+END
+ToolTipCtrlX.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/ToolTipCtrlX.h
+END
+StatisticsTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/StatisticsTree.h
+END
+ServerWnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/ServerWnd.cpp
+END
+FileDetailDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/FileDetailDialog.cpp
+END
+ModVersion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/ModVersion.cpp
+END
+SpeedGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/SpeedGraph.h
+END
+IrcSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/IrcSocket.h
+END
+GDIThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/GDIThread.cpp
+END
+ListBoxST.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/ListBoxST.cpp
+END
+CustomAutoComplete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/tags/1.0/srchybrid/CustomAutoComplete.cpp
+END
+PPgXtreme2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgXtreme2.cpp
+END
+Collection.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/Collection.h
+END
+KCSideBannerWnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/KCSideBannerWnd.cpp
+END
+HttpClientReqSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/tags/1.0/srchybrid/HttpClientReqSocket.h
+END
+GradientStatic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/GradientStatic.cpp
+END
+UDPSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/UDPSocket.h
+END
+FriendList.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/FriendList.h
+END
+ListViewWalkerPropertySheet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/tags/1.0/srchybrid/ListViewWalkerPropertySheet.cpp
+END
+PPgSecurity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgSecurity.cpp
+END
+MiniMule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/MiniMule.cpp
+END
+DownloadQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/DownloadQueue.h
+END
+CommentDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/CommentDialog.cpp
+END
+ListViewSearchDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/tags/1.0/srchybrid/ListViewSearchDlg.cpp
+END
+IrcChannelTabCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/IrcChannelTabCtrl.h
+END
+KnownFileList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/KnownFileList.cpp
+END
+SelfTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/SelfTest.cpp
+END
+emule80.sln
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/emule80.sln
+END
+Statistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/Statistics.cpp
+END
+Collection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/Collection.cpp
+END
+SHAHashSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/SHAHashSet.h
+END
+TreeOptionsCtrlEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/TreeOptionsCtrlEx.h
+END
+IconStatic.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/IconStatic.h
+END
+ZIPFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/ZIPFile.h
+END
+NumEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/NumEdit.h
+END
+KadSearchListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/KadSearchListCtrl.h
+END
+ListViewWalkerPropertySheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28/tags/1.0/srchybrid/ListViewWalkerPropertySheet.h
+END
+PPgXtreme.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgXtreme.h
+END
+MD4_asm.asm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/MD4_asm.asm
+END
+FirewallOpener.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/FirewallOpener.h
+END
+UploadClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/UploadClient.cpp
+END
+PPgGeneral.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgGeneral.cpp
+END
+SecRunAsUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/SecRunAsUser.h
+END
+SHAHashSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/SHAHashSet.cpp
+END
+ServerListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/ServerListCtrl.h
+END
+ClientCredits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/ClientCredits.cpp
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/srchybrid/stdafx.h
+END
+Statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/Statistics.h
+END
+TrayDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/TrayDialog.cpp
+END
+KadContactListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/KadContactListCtrl.h
+END
+AbstractFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/AbstractFile.cpp
+END
+Flex.skl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/srchybrid/Flex.skl
+END
+ArchiveRecovery.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/ArchiveRecovery.h
+END
+SmileySelector.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/SmileySelector.h
+END
+ClientList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/ClientList.cpp
+END
+PPgXtreme.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgXtreme.cpp
+END
+DialogMinTrayBtn.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/DialogMinTrayBtn.h
+END
+Scheduler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/Scheduler.cpp
+END
+StatisticsDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/StatisticsDlg.cpp
+END
+CreditsDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/CreditsDlg.cpp
+END
+Exceptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/Exceptions.h
+END
+Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/srchybrid/Log.h
+END
+WndUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/WndUtil.h
+END
+CatDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/CatDialog.h
+END
+KeyHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/KeyHelper.h
+END
+PerfLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/PerfLog.cpp
+END
+MediaInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/MediaInfo.h
+END
+ini2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/srchybrid/ini2.cpp
+END
+SearchResultsWnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/SearchResultsWnd.h
+END
+BandWidthControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/BandWidthControl.cpp
+END
+EMSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/EMSocket.cpp
+END
+SplitterControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/SplitterControl.h
+END
+DownloadQueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/DownloadQueue.cpp
+END
+Drawgdix.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/Drawgdix.h
+END
+ClientList.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/ClientList.h
+END
+MenuXP.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/srchybrid/MenuXP.h
+END
+AsyncSocketEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/AsyncSocketEx.cpp
+END
+PPgDirectories.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgDirectories.cpp
+END
+ColorFrameCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/ColorFrameCtrl.h
+END
+ProgressCtrlX.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/ProgressCtrlX.h
+END
+TaskbarNotifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/TaskbarNotifier.cpp
+END
+ColourPopup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/ColourPopup.cpp
+END
+FileDetailDialogName.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/tags/1.0/srchybrid/FileDetailDialogName.h
+END
+DropDownButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/DropDownButton.cpp
+END
+emule.rc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/srchybrid/emule.rc
+END
+AsyncProxySocketLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28/tags/1.0/srchybrid/AsyncProxySocketLayer.h
+END
+XMessageBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/XMessageBox.h
+END
+MediaInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/MediaInfo.cpp
+END
+ComboBoxEx2.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/ComboBoxEx2.h
+END
+EnBitmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/EnBitmap.cpp
+END
+BarShader.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/BarShader.h
+END
+KnownFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/KnownFile.h
+END
+SendMail.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/SendMail.h
+END
+SettingsSaver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/SettingsSaver.cpp
+END
+MMServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/MMServer.h
+END
+SharedFileList.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/SharedFileList.h
+END
+PreviewDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/PreviewDlg.cpp
+END
+SearchExpr.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/SearchExpr.h
+END
+StatisticFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/StatisticFile.h
+END
+EMSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/EMSocket.h
+END
+KademliaWnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/KademliaWnd.cpp
+END
+KadContactHistogramCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/tags/1.0/srchybrid/KadContactHistogramCtrl.h
+END
+FriendListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/FriendListCtrl.cpp
+END
+Pinger.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/srchybrid/Pinger.h
+END
+BarShader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/BarShader.cpp
+END
+KadContactListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/tags/1.0/srchybrid/KadContactListCtrl.cpp
+END
+FileDetailDialogInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/28/tags/1.0/srchybrid/FileDetailDialogInfo.cpp
+END
+SivkaFileSettings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/tags/1.0/srchybrid/SivkaFileSettings.cpp
+END
+SearchList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/SearchList.cpp
+END
+PPgDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgDebug.h
+END
+IrcNickListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/IrcNickListCtrl.cpp
+END
+Wizard.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/srchybrid/Wizard.h
+END
+EncryptedDatagramSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/tags/1.0/srchybrid/EncryptedDatagramSocket.cpp
+END
+CBase64Coding.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/CBase64Coding.hpp
+END
+emule.sln
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/emule.sln
+END
+Version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/Version.cpp
+END
+UploadBandwidthThrottler.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/28/tags/1.0/srchybrid/UploadBandwidthThrottler.h
+END
+WebSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/WebSocket.cpp
+END
+MuleListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/MuleListCtrl.h
+END
+Scanner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/Scanner.cpp
+END
+AICHSyncThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/AICHSyncThread.cpp
+END
+emule90.sln
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/emule90.sln
+END
+KnownFileList.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/KnownFileList.h
+END
+PeerCacheSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/PeerCacheSocket.h
+END
+TreeOptionsCtrlEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/tags/1.0/srchybrid/TreeOptionsCtrlEx.cpp
+END
+NTService.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/NTService.h
+END
+RichEditStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/RichEditStream.cpp
+END
+WebServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/WebServer.h
+END
+MD5Sum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/MD5Sum.cpp
+END
+SearchFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/SearchFile.h
+END
+MenuXP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/MenuXP.cpp
+END
+ChatSelector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/ChatSelector.cpp
+END
+sapi.lib
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/srchybrid/sapi.lib
+END
+sockets.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/sockets.h
+END
+IrcMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/IrcMain.cpp
+END
+OScopeCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/OScopeCtrl.h
+END
+HistoryListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/HistoryListCtrl.h
+END
+ChatWnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/ChatWnd.cpp
+END
+DownloadListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/DownloadListCtrl.cpp
+END
+tabctrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/tabctrl.cpp
+END
+MapKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/srchybrid/MapKey.h
+END
+SendMail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/SendMail.cpp
+END
+KnownFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/KnownFile.cpp
+END
+SearchDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/SearchDlg.h
+END
+parser.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/parser.hpp
+END
+sockets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/sockets.cpp
+END
+MD5Sum.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/srchybrid/MD5Sum.h
+END
+RARFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/RARFile.cpp
+END
+Debug_FileSize.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/Debug_FileSize.h
+END
+IrcWnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/IrcWnd.cpp
+END
+SearchParamsWnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/SearchParamsWnd.h
+END
+emule80.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/emule80.vcproj
+END
+Quantize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/Quantize.cpp
+END
+IUpnpErrFile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/IUpnpErrFile.txt
+END
+IUpnpInfoFile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/IUpnpInfoFile.txt
+END
+ED2KLink.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/ED2KLink.h
+END
+DeadSourceList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/DeadSourceList.cpp
+END
+FirewallOpener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/FirewallOpener.cpp
+END
+ClientDetailDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/tags/1.0/srchybrid/ClientDetailDialog.cpp
+END
+HTRichEditCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/HTRichEditCtrl.h
+END
+ClientStateDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/ClientStateDefs.h
+END
+TreePropSheet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/TreePropSheet.cpp
+END
+DirectDownloadDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/tags/1.0/srchybrid/DirectDownloadDlg.cpp
+END
+PPgScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgScheduler.h
+END
+DropDownButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/DropDownButton.h
+END
+AICHSyncThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/AICHSyncThread.h
+END
+Scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/Scanner.h
+END
+HttpClientReqSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28/tags/1.0/srchybrid/HttpClientReqSocket.cpp
+END
+MassRename.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/MassRename.h
+END
+Scanner.l
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/Scanner.l
+END
+ClientListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/ClientListCtrl.h
+END
+emule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/emule.cpp
+END
+PreviewDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/PreviewDlg.h
+END
+DeadSourceList.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/DeadSourceList.h
+END
+SafeFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/SafeFile.h
+END
+DLP.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/28/tags/1.0/srchybrid/DLP.h
+END
+UploadQueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/UploadQueue.cpp
+END
+MassRename.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/MassRename.cpp
+END
+SearchDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/SearchDlg.cpp
+END
+FriendListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/FriendListCtrl.h
+END
+PPgDebug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgDebug.cpp
+END
+NetworkInfoDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/NetworkInfoDlg.h
+END
+URLClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/URLClient.cpp
+END
+TreeOptionsCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/TreeOptionsCtrl.h
+END
+ClientUDPSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/ClientUDPSocket.h
+END
+server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/server.cpp
+END
+RichEditCtrlX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/RichEditCtrlX.cpp
+END
+SHA_asm.asm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/SHA_asm.asm
+END
+ArchivePreviewDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/tags/1.0/srchybrid/ArchivePreviewDlg.cpp
+END
+ColorFrameCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/ColorFrameCtrl.cpp
+END
+PPgDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgDisplay.h
+END
+PPgServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgServer.h
+END
+PPgNotify.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgNotify.h
+END
+ToolBarCtrlX.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/ToolBarCtrlX.h
+END
+LayeredWindowHelperST.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/tags/1.0/srchybrid/LayeredWindowHelperST.cpp
+END
+IrcChannelListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/tags/1.0/srchybrid/IrcChannelListCtrl.cpp
+END
+PPGProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPGProxy.cpp
+END
+CommentListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/CommentListCtrl.h
+END
+packets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/packets.cpp
+END
+ModVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/ModVersion.h
+END
+TaskbarNotifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/TaskbarNotifier.h
+END
+ColourPopup.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/ColourPopup.h
+END
+SimpleCleanup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/SimpleCleanup.cpp
+END
+ServerList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/ServerList.cpp
+END
+emuleDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/emuleDlg.h
+END
+Preferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/Preferences.h
+END
+Friend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/Friend.cpp
+END
+PartFileConvert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/PartFileConvert.cpp
+END
+CorruptionBlackBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/tags/1.0/srchybrid/CorruptionBlackBox.cpp
+END
+GradientStatic.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/GradientStatic.h
+END
+HTRichEditCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/HTRichEditCtrl.cpp
+END
+OScopeCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/OScopeCtrl.cpp
+END
+PeerCacheClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/PeerCacheClient.cpp
+END
+KadContactHistogramCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/tags/1.0/srchybrid/KadContactHistogramCtrl.cpp
+END
+ArchivePreviewDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/ArchivePreviewDlg.h
+END
+SplashScreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/SplashScreen.cpp
+END
+DownloadListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/DownloadListCtrl.h
+END
+ChatWnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/ChatWnd.h
+END
+TreePropSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/TreePropSheet.h
+END
+DirectDownloadDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/DirectDownloadDlg.h
+END
+packets.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/packets.h
+END
+IconStatic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/IconStatic.cpp
+END
+CollectionFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/CollectionFile.h
+END
+TreeOptionsInvisibleModCombo.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/tags/1.0/srchybrid/TreeOptionsInvisibleModCombo.h
+END
+AddSourceDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/AddSourceDlg.h
+END
+SourceSaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/SourceSaver.h
+END
+SelCategoryDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/SelCategoryDlg.cpp
+END
+P2PThreat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/P2PThreat.cpp
+END
+EncryptedDatagramSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/tags/1.0/srchybrid/EncryptedDatagramSocket.h
+END
+UserMsgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/UserMsgs.h
+END
+CorruptionBlackBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/CorruptionBlackBox.h
+END
+FrameGrabThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/FrameGrabThread.h
+END
+MMSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/MMSocket.h
+END
+mdump.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/srchybrid/mdump.h
+END
+CollectionFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/CollectionFile.cpp
+END
+NetworkInfoDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/NetworkInfoDlg.cpp
+END
+UploadQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/UploadQueue.h
+END
+SplashScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/SplashScreen.h
+END
+ArchiveRecovery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/ArchiveRecovery.cpp
+END
+UDPSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/UDPSocket.cpp
+END
+ReadWriteLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/ReadWriteLock.h
+END
+AskExitDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/AskExitDlg.h
+END
+PPgConnection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgConnection.cpp
+END
+HighColorTab.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/HighColorTab.hpp
+END
+CaptchaGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/CaptchaGenerator.cpp
+END
+PPgDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgDisplay.cpp
+END
+RichEditStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/RichEditStream.h
+END
+I18n.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/srchybrid/I18n.cpp
+END
+EncryptedStreamSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/tags/1.0/srchybrid/EncryptedStreamSocket.cpp
+END
+PPgIrc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgIrc.cpp
+END
+SearchResultsWnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/SearchResultsWnd.cpp
+END
+DownloadClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/DownloadClient.cpp
+END
+BandWidthControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/BandWidthControl.h
+END
+DebugHelpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/DebugHelpers.h
+END
+CaptchaGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/CaptchaGenerator.h
+END
+SpeedGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/SpeedGraph.cpp
+END
+IPFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/IPFilter.h
+END
+ShareableFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/ShareableFile.cpp
+END
+PreferencesDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/PreferencesDlg.cpp
+END
+PPgGeneral.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgGeneral.h
+END
+WebSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/WebSocket.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/resource.h
+END
+MMServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/MMServer.cpp
+END
+PPgScar.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgScar.h
+END
+QueueListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/QueueListCtrl.cpp
+END
+PPgServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgServer.cpp
+END
+RichEditCtrlX.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/RichEditCtrlX.h
+END
+P2PThreat.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/P2PThreat.h
+END
+Log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/srchybrid/Log.cpp
+END
+IrcChannelTabCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/tags/1.0/srchybrid/IrcChannelTabCtrl.cpp
+END
+EditX.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/srchybrid/EditX.h
+END
+MD4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/srchybrid/MD4.cpp
+END
+MeterIcon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/MeterIcon.cpp
+END
+ListViewSearchDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/ListViewSearchDlg.h
+END
+CreditsDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/CreditsDlg.h
+END
+PPGProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPGProxy.h
+END
+Wizard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/Wizard.cpp
+END
+emule90.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/emule90.vcproj
+END
+opcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/opcodes.h
+END
+ZIPFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/ZIPFile.cpp
+END
+HttpDownloadDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/HttpDownloadDlg.h
+END
+SharedFilesWnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/SharedFilesWnd.h
+END
+emule.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/srchybrid/emule.h
+END
+SafeFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/SafeFile.cpp
+END
+FileInfoDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/FileInfoDialog.h
+END
+ProgressCtrlX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/ProgressCtrlX.cpp
+END
+SecRunAsUser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/SecRunAsUser.cpp
+END
+PPgMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgMessages.h
+END
+ServerSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/ServerSocket.h
+END
+VisualStylesXP.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/VisualStylesXP.h
+END
+AddFriend.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/AddFriend.h
+END
+SearchListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/SearchListCtrl.cpp
+END
+Preview.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/Preview.h
+END
+SplashScreenEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/SplashScreenEx.cpp
+END
+FileDetailDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/FileDetailDialog.h
+END
+Version.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/28/tags/1.0/srchybrid/Version.h
+END
+IrcWnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/srchybrid/IrcWnd.h
+END
+tabctrl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/tags/1.0/srchybrid/tabctrl.hpp
+END
+FriendList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/FriendList.cpp
+END
+PPgTweaks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgTweaks.cpp
+END
+ClosableTabCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/ClosableTabCtrl.h
+END
+PPgStats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgStats.cpp
+END
+CollectionViewDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/28/tags/1.0/srchybrid/CollectionViewDialog.cpp
+END
+AbstractFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/AbstractFile.h
+END
+TreePropSheetPgFrameDef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/tags/1.0/srchybrid/TreePropSheetPgFrameDef.cpp
+END
+FileInfoDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/FileInfoDialog.cpp
+END
+SelCategoryDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/SelCategoryDlg.h
+END
+updownclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/updownclient.h
+END
+MenuCmds.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/tags/1.0/srchybrid/MenuCmds.h
+END
+EditDelayed.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/tags/1.0/srchybrid/EditDelayed.h
+END
+DownloadClientsCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/tags/1.0/srchybrid/DownloadClientsCtrl.h
+END
+UPnP_IGDControlPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/tags/1.0/srchybrid/UPnP_IGDControlPoint.h
+END
+IESecurity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/tags/1.0/srchybrid/IESecurity.cpp
+END
+vld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/srchybrid/vld.cpp
+END
+MuleStatusBarCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/MuleStatusBarCtrl.h
+END
+HyperTextCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/HyperTextCtrl.h
+END
+CommentDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/CommentDialog.h
+END
+IrcChannelListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/IrcChannelListCtrl.h
+END
+emuleDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/emuleDlg.cpp
+END
+ClientListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/ClientListCtrl.cpp
+END
+SharedDirsTreeCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/SharedDirsTreeCtrl.h
+END
+ListCtrlItemWalk.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/ListCtrlItemWalk.h
+END
+ClientVersionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/28/tags/1.0/srchybrid/ClientVersionInfo.h
+END
+CommentDialogLst.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/CommentDialogLst.cpp
+END
+MetaDataDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/MetaDataDlg.cpp
+END
+DirectoryTreeCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/tags/1.0/srchybrid/DirectoryTreeCtrl.cpp
+END
+PPgFiles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgFiles.cpp
+END
+ColorButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/ColorButton.cpp
+END
+PartFileConvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/PartFileConvert.h
+END
+Friend.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/tags/1.0/srchybrid/Friend.h
+END
+TreePropSheetPgFrameDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/tags/1.0/srchybrid/TreePropSheetPgFrameDef.h
+END
+DLP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/28/tags/1.0/srchybrid/DLP.cpp
+END
+UploadBandwidthThrottler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/tags/1.0/srchybrid/UploadBandwidthThrottler.cpp
+END
+AsyncSocketExLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/tags/1.0/srchybrid/AsyncSocketExLayer.h
+END
+AsyncSocketEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/AsyncSocketEx.h
+END
+PPgDirectories.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/PPgDirectories.h
+END
+TreePropSheetPgFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/tags/1.0/srchybrid/TreePropSheetPgFrame.h
+END
+SharedFileList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/SharedFileList.cpp
+END
+SmileySelector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/28/tags/1.0/srchybrid/SmileySelector.cpp
+END
+CollectionCreateDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/28/tags/1.0/srchybrid/CollectionCreateDialog.h
+END
+IPFilterDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/tags/1.0/srchybrid/IPFilterDlg.cpp
+END

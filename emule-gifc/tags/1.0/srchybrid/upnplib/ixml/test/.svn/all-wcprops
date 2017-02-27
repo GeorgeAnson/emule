@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/ixml/test
+END
+test_document.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/ixml/test/test_document.sh
+END
+test_document.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/ixml/test/test_document.c
+END

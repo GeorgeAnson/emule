@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/44/standard/id3lib/zlib/include
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/44/standard/id3lib/zlib/include/deflate.h
+END
+infblock.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/44/standard/id3lib/zlib/include/infblock.h
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/44/standard/id3lib/zlib/include/zutil.h
+END
+infcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/44/standard/id3lib/zlib/include/infcodes.h
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/44/standard/id3lib/zlib/include/inffast.h
+END
+infutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/44/standard/id3lib/zlib/include/infutil.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/44/standard/id3lib/zlib/include/inffixed.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/44/standard/id3lib/zlib/include/Makefile.in
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/44/standard/id3lib/zlib/include/zconf.h
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/44/standard/id3lib/zlib/include/inftrees.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/44/standard/id3lib/zlib/include/zlib.h
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/44/standard/id3lib/zlib/include/trees.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/44/standard/id3lib/zlib/include/Makefile.am
+END

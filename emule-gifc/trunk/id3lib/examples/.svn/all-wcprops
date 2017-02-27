@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/33/trunk/id3lib/examples
+END
+demo_simple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/33/trunk/id3lib/examples/demo_simple.cpp
+END
+thatspot.tag
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/33/trunk/id3lib/examples/thatspot.tag
+END
+demo_tag_options.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/33/trunk/id3lib/examples/demo_tag_options.h
+END
+crc53865.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/33/trunk/id3lib/examples/crc53865.mp3
+END
+demo_convert_options.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/33/trunk/id3lib/examples/demo_convert_options.c
+END
+221-compressed.tag
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/33/trunk/id3lib/examples/221-compressed.tag
+END
+demo_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/33/trunk/id3lib/examples/demo_info.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/33/trunk/id3lib/examples/Makefile.in
+END
+demo_convert_options.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/33/trunk/id3lib/examples/demo_convert_options.h
+END
+findstr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/33/trunk/id3lib/examples/findstr.cpp
+END
+demo_info_options.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/33/trunk/id3lib/examples/demo_info_options.c
+END
+test_pic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/33/trunk/id3lib/examples/test_pic.cpp
+END
+demo_copy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/33/trunk/id3lib/examples/demo_copy.cpp
+END
+demo_info_options.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/33/trunk/id3lib/examples/demo_info_options.h
+END
+230-unicode.tag
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/33/trunk/id3lib/examples/230-unicode.tag
+END
+getopt1.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/33/trunk/id3lib/examples/getopt1.c
+END
+demo_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/33/trunk/id3lib/examples/demo_main.cpp
+END
+demo_copy_options.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/33/trunk/id3lib/examples/demo_copy_options.c
+END
+test_remove.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/33/trunk/id3lib/examples/test_remove.cpp
+END
+demo_copy_options.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/33/trunk/id3lib/examples/demo_copy_options.h
+END
+230-compressed.tag
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/33/trunk/id3lib/examples/230-compressed.tag
+END
+test_compression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/33/trunk/id3lib/examples/test_compression.cpp
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/33/trunk/id3lib/examples/getopt.c
+END
+ozzy.tag
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/33/trunk/id3lib/examples/ozzy.tag
+END
+test_io.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/33/trunk/id3lib/examples/test_io.cpp
+END
+230-picture.tag
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/33/trunk/id3lib/examples/230-picture.tag
+END
+230-syncedlyrics.tag
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/33/trunk/id3lib/examples/230-syncedlyrics.tag
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/33/trunk/id3lib/examples/getopt.h
+END
+findeng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/33/trunk/id3lib/examples/findeng.cpp
+END
+get_pic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/33/trunk/id3lib/examples/get_pic.cpp
+END
+demo_tag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/33/trunk/id3lib/examples/demo_tag.cpp
+END
+demo_convert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/33/trunk/id3lib/examples/demo_convert.cpp
+END
+composer.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/33/trunk/id3lib/examples/composer.jpg
+END
+test_unicode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/33/trunk/id3lib/examples/test_unicode.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/33/trunk/id3lib/examples/Makefile.am
+END
+demo_tag_options.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/33/trunk/id3lib/examples/demo_tag_options.c
+END

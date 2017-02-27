@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/srchybrid/ATLServer/source/CLStencil
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/srchybrid/ATLServer/source/CLStencil/StdAfx.h
+END
+clstencilui.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/trunk/srchybrid/ATLServer/source/CLStencil/clstencilui.vcproj
+END
+clstencil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/srchybrid/ATLServer/source/CLStencil/clstencil.cpp
+END
+clstencil.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/srchybrid/ATLServer/source/CLStencil/clstencil.vcproj
+END
+clstencil.rc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/srchybrid/ATLServer/source/CLStencil/clstencil.rc
+END
+ReadMe.htm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/srchybrid/ATLServer/source/CLStencil/ReadMe.htm
+END
+clstencilui.mak
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/srchybrid/ATLServer/source/CLStencil/clstencilui.mak
+END
+clstencil.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/srchybrid/ATLServer/source/CLStencil/clstencil.h
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/srchybrid/ATLServer/source/CLStencil/StdAfx.cpp
+END
+clstencil.sln
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/srchybrid/ATLServer/source/CLStencil/clstencil.sln
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/srchybrid/ATLServer/source/CLStencil/resource.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/ixml/src
+END
+node.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/ixml/src/node.c
+END
+ixmlmembuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/ixml/src/ixmlmembuf.c
+END
+ixmlparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/ixml/src/ixmlparser.c
+END
+namedNodeMap.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/ixml/src/namedNodeMap.c
+END
+element.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/ixml/src/element.c
+END
+ixml.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/ixml/src/ixml.c
+END
+attr.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/ixml/src/attr.c
+END
+document.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/ixml/src/document.c
+END
+nodeList.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/ixml/src/nodeList.c
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/53/trunk/png
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/35/trunk/png/README
+END
+new_push_process_row.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/35/trunk/png/new_push_process_row.c
+END
+libpngpf.3
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/35/trunk/png/libpngpf.3
+END
+pngtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/35/trunk/png/pngtest.c
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/35/trunk/png/TODO
+END
+ANNOUNCE
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/35/trunk/png/ANNOUNCE
+END
+pngpriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/35/trunk/png/pngpriv.h
+END
+pngrtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/35/trunk/png/pngrtran.c
+END
+pngerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/35/trunk/png/pngerror.c
+END
+pngwtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/35/trunk/png/pngwtran.c
+END
+libpng.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/35/trunk/png/libpng.pc.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/35/trunk/png/configure
+END
+libpng-1.4.3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/35/trunk/png/libpng-1.4.3.txt
+END
+pngnow.png
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/png/pngnow.png
+END
+pngread.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/35/trunk/png/pngread.c
+END
+pngmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/35/trunk/png/pngmem.c
+END
+png.c
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/35/trunk/png/png.c
+END
+pngget.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/35/trunk/png/pngget.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/35/trunk/png/INSTALL
+END
+pngtest.png
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/35/trunk/png/pngtest.png
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/35/trunk/png/CHANGES
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/35/trunk/png/png.h
+END
+libpng.3
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/35/trunk/png/libpng.3
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/35/trunk/png/example.c
+END
+pngtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/35/trunk/png/pngtrans.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/35/trunk/png/CMakeLists.txt
+END
+pngrio.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/35/trunk/png/pngrio.c
+END
+pngconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/35/trunk/png/pngconf.h
+END
+pngwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/35/trunk/png/pngwrite.c
+END
+pngpread.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/35/trunk/png/pngpread.c
+END
+pngset.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/35/trunk/png/pngset.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/35/trunk/png/LICENSE
+END
+libpng-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/35/trunk/png/libpng-config.in
+END
+pngwio.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/35/trunk/png/pngwio.c
+END
+pngrutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/35/trunk/png/pngrutil.c
+END
+png.5
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/35/trunk/png/png.5
+END
+pngbar.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/png/pngbar.jpg
+END
+pngwutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/35/trunk/png/pngwutil.c
+END
+pngbar.png
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/png/pngbar.png
+END

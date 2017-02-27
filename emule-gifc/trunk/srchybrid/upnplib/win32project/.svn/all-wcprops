@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/39/trunk/srchybrid/upnplib/win32project
+END
+upnpLib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/srchybrid/upnplib/win32project/upnpLib.vcproj
+END
+upnpLib100.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/39/trunk/srchybrid/upnplib/win32project/upnpLib100.vcxproj.filters
+END
+upnpLib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/win32project/upnpLib.dsp
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/win32project/StdAfx.h
+END
+upnpLib80.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/srchybrid/upnplib/win32project/upnpLib80.vcproj
+END
+upnpLib.sln
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/win32project/upnpLib.sln
+END
+upnpLib90.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/srchybrid/upnplib/win32project/upnpLib90.vcproj
+END
+upnpLib100.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/39/trunk/srchybrid/upnplib/win32project/upnpLib100.vcxproj
+END
+upnpLib.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/win32project/upnpLib.dsw
+END
+upnpLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/win32project/upnpLib.cpp
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/win32project/StdAfx.cpp
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/33/trunk/id3lib/include/id3
+END
+id3lib_streams.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/id3lib/include/id3/id3lib_streams.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/33/trunk/id3lib/include/id3/config.h
+END
+tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/id3lib/include/id3/tag.h
+END
+writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/id3lib/include/id3/writer.h
+END
+id3lib_strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/id3lib/include/id3/id3lib_strings.h
+END
+io_strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/id3lib/include/id3/io_strings.h
+END
+id3lib_frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/id3lib/include/id3/id3lib_frame.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/id3lib/include/id3/Makefile.am
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/33/trunk/id3lib/include/id3/globals.h
+END
+field.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/id3lib/include/id3/field.h
+END
+readers.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/id3lib/include/id3/readers.h
+END
+misc_support.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/id3lib/include/id3/misc_support.h
+END
+io_helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/id3lib/include/id3/io_helpers.h
+END
+id3lib_bitset
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/id3lib/include/id3/id3lib_bitset
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/id3lib/include/id3/Makefile.in
+END
+io_decorators.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/id3lib/include/id3/io_decorators.h
+END
+writers.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/id3lib/include/id3/writers.h
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/id3lib/include/id3/utils.h
+END
+reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/id3lib/include/id3/reader.h
+END
+helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/id3lib/include/id3/helpers.h
+END
+sized_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/33/trunk/id3lib/include/id3/sized_types.h
+END

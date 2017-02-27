@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/srchybrid/upnplib/upnp/src/ssdp
+END
+ssdp_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/ssdp/ssdp_server.c
+END
+ssdp_ctrlpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/ssdp/ssdp_ctrlpt.c
+END
+ssdp_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/ssdp/ssdp_device.c
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/VCDeploy
+END
+atlsdply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/VCDeploy/atlsdply.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/VCDeploy/resource.h
+END
+iisext_i.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/VCDeploy/iisext_i.c
+END
+atlsdply.rc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/VCDeploy/atlsdply.rc
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/VCDeploy/stdafx.h
+END
+depsettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/VCDeploy/depsettings.h
+END
+api.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/VCDeploy/api.h
+END
+vcdeploy.sln
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/VCDeploy/vcdeploy.sln
+END
+iiisext.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/VCDeploy/iiisext.h
+END
+vcdeploy.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/VCDeploy/vcdeploy.vcproj
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/VCDeploy/stdafx.cpp
+END
+api.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/VCDeploy/api.cpp
+END
+depsettings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/VCDeploy/depsettings.cpp
+END

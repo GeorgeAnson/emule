@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/res
+END
+dllmgr.srf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/res/dllmgr.srf
+END
+stencilmgr.srf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/res/stencilmgr.srf
+END
+threadmgr.srf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/include/res/threadmgr.srf
+END

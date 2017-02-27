@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/build/inc
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/build/inc/config.h
+END
+upnpconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/build/inc/upnpconfig.h
+END
+autoconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/build/inc/autoconfig.h
+END

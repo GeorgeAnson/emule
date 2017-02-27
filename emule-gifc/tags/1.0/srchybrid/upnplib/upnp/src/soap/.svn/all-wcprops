@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/src/soap
+END
+soap_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/src/soap/soap_device.c
+END
+soap_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/src/soap/soap_common.c
+END
+soap_ctrlpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/src/soap/soap_ctrlpt.c
+END
+soaplib.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/src/soap/soaplib.h
+END

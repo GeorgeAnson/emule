@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia
+END
+UDPFirewallTester.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia/UDPFirewallTester.cpp
+END
+SearchManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia/SearchManager.h
+END
+Search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia/Search.cpp
+END
+Entry.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia/Entry.h
+END
+Kademlia.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia/Kademlia.cpp
+END
+UDPFirewallTester.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia/UDPFirewallTester.h
+END
+Search.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia/Search.h
+END
+Kademlia.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia/Kademlia.h
+END
+Prefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia/Prefs.cpp
+END
+Tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia/Tag.h
+END
+Indexed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia/Indexed.cpp
+END
+Defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia/Defines.h
+END
+Prefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia/Prefs.h
+END
+Indexed.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia/Indexed.h
+END
+Error.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia/Error.h
+END
+SearchManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia/SearchManager.cpp
+END
+Entry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/tags/1.0/srchybrid/kademlia/kademlia/Entry.cpp
+END

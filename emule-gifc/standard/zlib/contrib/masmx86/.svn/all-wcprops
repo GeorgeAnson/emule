@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/standard/zlib/contrib/masmx86
+END
+match686.asm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/standard/zlib/contrib/masmx86/match686.asm
+END
+gvmat32.asm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/standard/zlib/contrib/masmx86/gvmat32.asm
+END
+bld_ml32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/standard/zlib/contrib/masmx86/bld_ml32.bat
+END
+gvmat32c.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/standard/zlib/contrib/masmx86/gvmat32c.c
+END
+inffas32.asm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/standard/zlib/contrib/masmx86/inffas32.asm
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/standard/zlib/contrib/masmx86/readme.txt
+END

@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/53/trunk/ResizableLib
+END
+ResizableSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableSheet.h
+END
+ResizablePageEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/ResizableLib/ResizablePageEx.h
+END
+ResizableState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableState.cpp
+END
+ResizableLib.sln
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableLib.sln
+END
+ResizableMDIChild.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableMDIChild.h
+END
+ResizableLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableLayout.h
+END
+ResizableMDIFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableMDIFrame.cpp
+END
+ResizableMsgSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableMsgSupport.h
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/ResizableLib/StdAfx.cpp
+END
+ResizableFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableFrame.cpp
+END
+ResizableMinMax.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableMinMax.h
+END
+Artistic-License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/ResizableLib/Artistic-License.txt
+END
+ResizableLib80.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableLib80.vcproj
+END
+ResizableLib100.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/37/trunk/ResizableLib/ResizableLib100.vcxproj
+END
+ResizableLib90.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/37/trunk/ResizableLib/ResizableLib90.vcproj
+END
+ResizableFormView.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableFormView.h
+END
+ResizableDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableDialog.h
+END
+ResizableGrip.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableGrip.h
+END
+ResizableLib100.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/37/trunk/ResizableLib/ResizableLib100.vcxproj.filters
+END
+ResizableSheet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableSheet.cpp
+END
+ResizablePageEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/ResizableLib/ResizablePageEx.cpp
+END
+ResizableSheetEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableSheetEx.h
+END
+ResizableLib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableLib.dsp
+END
+ResizableLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableLayout.cpp
+END
+ResizableMDIChild.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableMDIChild.cpp
+END
+ResizableLib.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableLib.dsw
+END
+ResizablePage.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/ResizableLib/ResizablePage.h
+END
+ResizableMsgSupport.inl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableMsgSupport.inl
+END
+ChangeLog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/37/trunk/ResizableLib/ChangeLog.txt
+END
+ResizableState.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableState.h
+END
+ResizableLib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableLib.vcproj
+END
+ResizableMDIFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableMDIFrame.h
+END
+ResizableMinMax.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableMinMax.cpp
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/ResizableLib/StdAfx.h
+END
+ResizableFormView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableFormView.cpp
+END
+ResizableFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableFrame.h
+END
+ResizableDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableDialog.cpp
+END
+ResizableGrip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableGrip.cpp
+END
+ResizableSheetEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/ResizableLib/ResizableSheetEx.cpp
+END
+ResizablePage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/ResizableLib/ResizablePage.cpp
+END

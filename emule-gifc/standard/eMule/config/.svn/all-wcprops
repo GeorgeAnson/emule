@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/49/standard/eMule/config
+END
+eMule.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/49/standard/eMule/config/eMule.tmpl
+END
+addresses.dat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/49/standard/eMule/config/addresses.dat
+END
+webservices.dat
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/49/standard/eMule/config/webservices.dat
+END
+staticservers.dat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/49/standard/eMule/config/staticservers.dat
+END
+server.met
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/49/standard/eMule/config/server.met
+END
+nodes.dat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/49/standard/eMule/config/nodes.dat
+END

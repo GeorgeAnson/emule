@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/44/standard/id3lib/zlib/src
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/44/standard/id3lib/zlib/src/inflate.c
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/44/standard/id3lib/zlib/src/trees.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/44/standard/id3lib/zlib/src/uncompr.c
+END
+infblock.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/44/standard/id3lib/zlib/src/infblock.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/44/standard/id3lib/zlib/src/Makefile.am
+END
+infcodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/44/standard/id3lib/zlib/src/infcodes.c
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/44/standard/id3lib/zlib/src/inffast.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/44/standard/id3lib/zlib/src/compress.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/44/standard/id3lib/zlib/src/adler32.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/44/standard/id3lib/zlib/src/Makefile.in
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/44/standard/id3lib/zlib/src/deflate.c
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/44/standard/id3lib/zlib/src/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/44/standard/id3lib/zlib/src/gzio.c
+END
+infutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/44/standard/id3lib/zlib/src/infutil.c
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/44/standard/id3lib/zlib/src/crc32.c
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/44/standard/id3lib/zlib/src/inftrees.c
+END

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/44/standard/id3lib
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/44/standard/id3lib/ChangeLog
+END
+THANKS
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/44/standard/id3lib/THANKS
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/44/standard/id3lib/config.guess
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/44/standard/id3lib/config.h
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/44/standard/id3lib/config.sub
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/44/standard/id3lib/config.h.in
+END
+config.h.win32.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/44/standard/id3lib/config.h.win32.in
+END
+ltconfig
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/44/standard/id3lib/ltconfig
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/44/standard/id3lib/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/44/standard/id3lib/Makefile.am
+END
+reconf
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/44/standard/id3lib/reconf
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/44/standard/id3lib/NEWS
+END
+makefile.win32
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/44/standard/id3lib/makefile.win32
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/44/standard/id3lib/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/44/standard/id3lib/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/44/standard/id3lib/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/44/standard/id3lib/configure.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/44/standard/id3lib/depcomp
+END
+config.h.win32
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/44/standard/id3lib/config.h.win32
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/44/standard/id3lib/README
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/44/standard/id3lib/ltmain.sh
+END
+acconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/44/standard/id3lib/acconfig.h
+END
+id3lib.spec
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/44/standard/id3lib/id3lib.spec
+END
+HISTORY
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/44/standard/id3lib/HISTORY
+END
+id3lib.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/44/standard/id3lib/id3lib.spec.in
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/44/standard/id3lib/TODO
+END
+makewin32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/44/standard/id3lib/makewin32.bat
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/44/standard/id3lib/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/44/standard/id3lib/COPYING
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/44/standard/id3lib/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/44/standard/id3lib/install-sh
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/44/standard/id3lib/mkinstalldirs
+END

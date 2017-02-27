@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/33/trunk/id3lib/src
+END
+tag_parse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/33/trunk/id3lib/src/tag_parse.cpp
+END
+io.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/id3lib/src/io.cpp
+END
+header_frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/id3lib/src/header_frame.h
+END
+field_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/id3lib/src/field_impl.h
+END
+frame_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/id3lib/src/frame_impl.cpp
+END
+tag_parse_v1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/id3lib/src/tag_parse_v1.cpp
+END
+mp3_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/id3lib/src/mp3_header.h
+END
+field_string_unicode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/id3lib/src/field_string_unicode.cpp
+END
+field_string_ascii.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/id3lib/src/field_string_ascii.cpp
+END
+c_wrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/id3lib/src/c_wrapper.cpp
+END
+header_tag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/id3lib/src/header_tag.cpp
+END
+frame_parse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/id3lib/src/frame_parse.cpp
+END
+readers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/id3lib/src/readers.cpp
+END
+field_binary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/id3lib/src/field_binary.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/id3lib/src/Makefile.am
+END
+frame_render.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/id3lib/src/frame_render.cpp
+END
+io_helpers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/id3lib/src/io_helpers.cpp
+END
+tag_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/id3lib/src/tag_impl.cpp
+END
+header.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/id3lib/src/header.h
+END
+writers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/id3lib/src/writers.cpp
+END
+spec.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/id3lib/src/spec.h
+END
+field_integer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/id3lib/src/field_integer.cpp
+END
+flags.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/23/trunk/id3lib/src/flags.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/id3lib/src/Makefile.in
+END
+header_frame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/id3lib/src/header_frame.cpp
+END
+helpers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/id3lib/src/helpers.cpp
+END
+field_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/id3lib/src/field_def.h
+END
+tag_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/id3lib/src/tag_file.cpp
+END
+tag_render.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/id3lib/src/tag_render.cpp
+END
+tag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/33/trunk/id3lib/src/tag.cpp
+END
+tag_find.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/id3lib/src/tag_find.cpp
+END
+tag_parse_lyrics3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/id3lib/src/tag_parse_lyrics3.cpp
+END
+frame_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/id3lib/src/frame_def.h
+END
+frame_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/id3lib/src/frame_impl.h
+END
+tag_parse_musicmatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/id3lib/src/tag_parse_musicmatch.cpp
+END
+field.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/33/trunk/id3lib/src/field.cpp
+END
+globals.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/id3lib/src/globals.cpp
+END
+misc_support.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/id3lib/src/misc_support.cpp
+END
+header.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/id3lib/src/header.cpp
+END
+header_tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/id3lib/src/header_tag.h
+END
+mp3_parse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/id3lib/src/mp3_parse.cpp
+END
+spec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/id3lib/src/spec.cpp
+END
+frame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/33/trunk/id3lib/src/frame.cpp
+END
+io_decorators.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/id3lib/src/io_decorators.cpp
+END
+utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/id3lib/src/utils.cpp
+END
+tag_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/id3lib/src/tag_impl.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/src/genlib/util
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/src/genlib/util/util.c
+END
+strintmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/src/genlib/util/strintmap.c
+END
+membuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/src/genlib/util/membuffer.c
+END
+upnp_timeout.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/src/genlib/util/upnp_timeout.c
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/44/standard/id3lib/zlib
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/44/standard/id3lib/zlib/README
+END
+acconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/44/standard/id3lib/zlib/acconfig.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/44/standard/id3lib/zlib/config.h.in
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/44/standard/id3lib/zlib/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/44/standard/id3lib/zlib/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/44/standard/id3lib/zlib/Makefile.am
+END
+reconf
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/44/standard/id3lib/zlib/reconf
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/44/standard/id3lib/zlib/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/44/standard/id3lib/zlib/aclocal.m4
+END
+stamp-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/44/standard/id3lib/zlib/stamp-h.in
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/44/standard/id3lib/zlib/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/44/standard/id3lib/zlib/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/44/standard/id3lib/zlib/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/44/standard/id3lib/zlib/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/44/standard/id3lib/zlib/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/44/standard/id3lib/zlib/ChangeLog
+END

@@ -1,0 +1,659 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy
+END
+Element.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/Element.cpp
+END
+CppCodeGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/CppCodeGenerator.h
+END
+WSDLParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLParser.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/makefile
+END
+Parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/Parser.cpp
+END
+Emit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/Emit.cpp
+END
+Schema.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/Schema.cpp
+END
+WSDLMessageParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLMessageParser.h
+END
+WSDLPortTypeParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLPortTypeParser.h
+END
+DiscoMapDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/DiscoMapDocument.h
+END
+sproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/sproxy.cpp
+END
+XMLDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/XMLDocument.h
+END
+WSDLSoapElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLSoapElement.cpp
+END
+WSDLPortTypeOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLPortTypeOperation.h
+END
+WSDLServiceParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLServiceParser.cpp
+END
+xsdtypes.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/xsdtypes.in
+END
+WSDLOperationParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLOperationParser.cpp
+END
+XMLDocParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/XMLDocParser.h
+END
+WSDLPortTypeIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLPortTypeIO.cpp
+END
+ComplexType.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/ComplexType.cpp
+END
+WSDLMessagePart.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLMessagePart.h
+END
+Content.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/Content.cpp
+END
+SchemaParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/SchemaParser.cpp
+END
+sproxy.sln
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/sproxy.sln
+END
+AttributeParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/AttributeParser.cpp
+END
+DiscoMapParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/DiscoMapParser.h
+END
+CppCodeGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/CppCodeGenerator.cpp
+END
+Namespaces.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/Namespaces.h
+END
+sproxy.rc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/sproxy.rc
+END
+WSDLParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLParser.cpp
+END
+ContentParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/ContentParser.cpp
+END
+msxml2.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/msxml2.h
+END
+ErrorHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/ErrorHandler.cpp
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/StdAfx.cpp
+END
+sproxy.mak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/sproxy.mak
+END
+Element.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/Element.h
+END
+DiscoMapDocument.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/DiscoMapDocument.cpp
+END
+SimpleType.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/SimpleType.h
+END
+makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/makefile.inc
+END
+WSDLBinding.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLBinding.h
+END
+ElementParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/ElementParser.h
+END
+WSDLOperationParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLOperationParser.h
+END
+DiscoMapParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/DiscoMapParser.cpp
+END
+WSDLServiceParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLServiceParser.h
+END
+SimpleTypeParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/SimpleTypeParser.h
+END
+XSDElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/XSDElement.h
+END
+ComplexType.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/ComplexType.h
+END
+XMLElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/XMLElement.h
+END
+SchemaParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/SchemaParser.h
+END
+CodeTypeBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/CodeTypeBuilder.cpp
+END
+SproxyError.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/SproxyError.h
+END
+WSDLMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLMessage.h
+END
+SproxyColl.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/SproxyColl.h
+END
+WSDLPortType.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLPortType.h
+END
+sproxy.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/sproxy.vcproj
+END
+XSDMappingTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/XSDMappingTable.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/ReadMe.txt
+END
+ComplexTypeParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/ComplexTypeParser.h
+END
+ErrorHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/ErrorHandler.h
+END
+ContentParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/ContentParser.h
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/StdAfx.h
+END
+WSDLOperationIOParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLOperationIOParser.cpp
+END
+QName.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/QName.cpp
+END
+WSDLBinding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLBinding.cpp
+END
+CodeTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/CodeTypes.h
+END
+ElementParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/ElementParser.cpp
+END
+SimpleTypeParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/SimpleTypeParser.cpp
+END
+XMLElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/XMLElement.cpp
+END
+WSDLTypesParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLTypesParser.cpp
+END
+FacetMappingTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/FacetMappingTable.h
+END
+sproxy.srf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/sproxy.srf
+END
+Util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/Util.cpp
+END
+WSDLType.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLType.h
+END
+WSDLServicePortParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLServicePortParser.h
+END
+WSDLBindingParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLBindingParser.cpp
+END
+WSDLPort.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLPort.h
+END
+wsdl_rpc.srf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/wsdl_rpc.srf
+END
+ComplexTypeParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/ComplexTypeParser.cpp
+END
+CodeTypeBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/CodeTypeBuilder.h
+END
+facets.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/facets.in
+END
+WSDLMessageParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLMessageParser.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/resource.h
+END
+WSDLPortTypeParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLPortTypeParser.cpp
+END
+cppkeywords.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/cppkeywords.in
+END
+XMLDocument.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/XMLDocument.cpp
+END
+WSDLService.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLService.h
+END
+errordefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/errordefs.h
+END
+Parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/Parser.h
+END
+sources
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/sources
+END
+XMLDocParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/XMLDocParser.cpp
+END
+Emit.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/Emit.h
+END
+WSDLOperationIOParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLOperationIOParser.h
+END
+CppKeywordTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/CppKeywordTable.h
+END
+SchemaDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/SchemaDocument.h
+END
+WSDLMessagePart.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLMessagePart.cpp
+END
+Schema.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/Schema.h
+END
+QName.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/QName.h
+END
+Attribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/Attribute.h
+END
+WSDLSoapElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLSoapElement.h
+END
+WSDLServicePortParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLServicePortParser.cpp
+END
+WSDLPortTypeIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLPortTypeIO.h
+END
+WSDLDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLDocument.h
+END
+WSDLPort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLPort.cpp
+END
+Content.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/Content.h
+END
+WSDLTypesParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLTypesParser.h
+END
+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/Util.h
+END
+AttributeParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/AttributeParser.h
+END
+WSDLBindingParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/WSDLBindingParser.h
+END
+SkipParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/tags/1.0/srchybrid/ATLServer/source/SProxy/SkipParser.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/srchybrid/upnplib/upnp/src/genlib/net/http
+END
+webserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/genlib/net/http/webserver.c
+END
+httpreadwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/genlib/net/http/httpreadwrite.c
+END
+statcodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/genlib/net/http/statcodes.c
+END
+parsetools.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/genlib/net/http/parsetools.c
+END
+httpparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/genlib/net/http/httpparser.c
+END

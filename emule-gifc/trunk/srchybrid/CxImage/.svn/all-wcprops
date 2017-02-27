@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/53/trunk/srchybrid/CxImage
+END
+ximasel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximasel.cpp
+END
+ximajpg.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximajpg.h
+END
+ximadsp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximadsp.cpp
+END
+ximawmf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximawmf.cpp
+END
+ximapcx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximapcx.cpp
+END
+ximage.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/39/trunk/srchybrid/CxImage/ximage.h
+END
+ximadef.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximadef.h
+END
+ximaenc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximaenc.cpp
+END
+ximagif.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximagif.h
+END
+ximawbmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximawbmp.h
+END
+ximath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximath.cpp
+END
+ximaico.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximaico.h
+END
+ximatga.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximatga.h
+END
+ximajpg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximajpg.cpp
+END
+ximamng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximamng.cpp
+END
+ximabmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximabmp.h
+END
+ximaska.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximaska.h
+END
+ximalpha.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximalpha.cpp
+END
+xiofile.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/xiofile.h
+END
+xmemfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/xmemfile.cpp
+END
+ximatif.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximatif.h
+END
+cximage80.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/srchybrid/CxImage/cximage80.vcproj
+END
+cximage90.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/srchybrid/CxImage/cximage90.vcproj
+END
+ximawnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/39/trunk/srchybrid/CxImage/ximawnd.cpp
+END
+ximaint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximaint.cpp
+END
+tif_xfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/tif_xfile.cpp
+END
+ximaexif.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximaexif.cpp
+END
+xfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/xfile.h
+END
+ximawmf.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximawmf.h
+END
+ximacfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/srchybrid/CxImage/ximacfg.h
+END
+ximajbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximajbg.h
+END
+ximaico.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximaico.cpp
+END
+ximapal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximapal.cpp
+END
+ximajas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximajas.cpp
+END
+ximabmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximabmp.cpp
+END
+ximaska.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximaska.cpp
+END
+cximage.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/srchybrid/CxImage/cximage.vcproj
+END
+ximath.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximath.h
+END
+ximatif.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximatif.cpp
+END
+ximamng.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximamng.h
+END
+ximaraw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximaraw.cpp
+END
+ximapng.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximapng.h
+END
+ximainfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximainfo.cpp
+END
+xmemfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/xmemfile.h
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/license.txt
+END
+ximajbg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximajbg.cpp
+END
+ximatran.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximatran.cpp
+END
+ximalyr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximalyr.cpp
+END
+ximahist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximahist.cpp
+END
+ximaiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximaiter.h
+END
+cximage.sln
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/cximage.sln
+END
+ximajas.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximajas.h
+END
+ximapng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/39/trunk/srchybrid/CxImage/ximapng.cpp
+END
+cximage100.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/39/trunk/srchybrid/CxImage/cximage100.vcxproj
+END
+ximage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximage.cpp
+END
+ximaraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximaraw.h
+END
+ximapcx.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximapcx.h
+END
+cximage100.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/39/trunk/srchybrid/CxImage/cximage100.vcxproj.filters
+END
+cximage.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/cximage.dsp
+END
+ximagif.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximagif.cpp
+END
+ximawbmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximawbmp.cpp
+END
+cximage.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/cximage.dsw
+END
+ximatga.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/srchybrid/CxImage/ximatga.cpp
+END

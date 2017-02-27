@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/inc
+END
+upnp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/inc/upnp.h
+END
+upnptools.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/inc/upnptools.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/inc/config.h
+END
+upnpdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/inc/upnpdebug.h
+END
+upnpconfig.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/28/tags/1.0/srchybrid/upnplib/upnp/inc/upnpconfig.h.in
+END

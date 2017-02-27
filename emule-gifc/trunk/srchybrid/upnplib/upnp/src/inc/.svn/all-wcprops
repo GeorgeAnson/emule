@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc
+END
+parsetools.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/parsetools.h
+END
+inet_pton.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/inet_pton.h
+END
+global.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/global.h
+END
+ssdplib.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/ssdplib.h
+END
+gena_ctrlpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/gena_ctrlpt.h
+END
+webserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/webserver.h
+END
+server.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/server.h
+END
+utilall.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/utilall.h
+END
+membuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/membuffer.h
+END
+upnpapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/upnpapi.h
+END
+miniserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/miniserver.h
+END
+gmtdate.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/gmtdate.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/md5.h
+END
+client_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/client_table.h
+END
+urlconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/urlconfig.h
+END
+gena_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/gena_device.h
+END
+statcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/statcodes.h
+END
+httpparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/httpparser.h
+END
+uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/uri.h
+END
+sock.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/sock.h
+END
+statuscodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/statuscodes.h
+END
+uuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/uuid.h
+END
+service_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/service_table.h
+END
+sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/sysdep.h
+END
+gena.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/gena.h
+END
+http_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/http_client.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/util.h
+END
+netall.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/netall.h
+END
+upnpclosesocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/upnpclosesocket.h
+END
+strintmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/strintmap.h
+END
+unixutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/unixutil.h
+END
+readwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/readwrite.h
+END
+httpreadwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/httpreadwrite.h
+END
+upnp_timeout.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/upnp_timeout.h
+END
+soaplib.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/srchybrid/upnplib/upnp/src/inc/soaplib.h
+END

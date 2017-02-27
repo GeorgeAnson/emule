@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/44/standard/srchybrid/kademlia/io
+END
+DataIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/44/standard/srchybrid/kademlia/io/DataIO.cpp
+END
+IOException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/44/standard/srchybrid/kademlia/io/IOException.cpp
+END
+DataIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/44/standard/srchybrid/kademlia/io/DataIO.h
+END
+FileIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/44/standard/srchybrid/kademlia/io/FileIO.cpp
+END
+BufferedFileIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/44/standard/srchybrid/kademlia/io/BufferedFileIO.cpp
+END
+IOException.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/44/standard/srchybrid/kademlia/io/IOException.h
+END
+ByteIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/44/standard/srchybrid/kademlia/io/ByteIO.cpp
+END
+FileIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/44/standard/srchybrid/kademlia/io/FileIO.h
+END
+BufferedFileIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/44/standard/srchybrid/kademlia/io/BufferedFileIO.h
+END
+ByteIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/44/standard/srchybrid/kademlia/io/ByteIO.h
+END

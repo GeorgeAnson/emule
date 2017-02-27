@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/srchybrid/DirectX/Include
+END
+d3dtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/srchybrid/DirectX/Include/d3dtypes.h
+END
+d3dcaps.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/srchybrid/DirectX/Include/d3dcaps.h
+END
+ddraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/srchybrid/DirectX/Include/ddraw.h
+END
+dxtrans.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/srchybrid/DirectX/Include/dxtrans.h
+END
+d3drmobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/srchybrid/DirectX/Include/d3drmobj.h
+END
+d3drmdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/srchybrid/DirectX/Include/d3drmdef.h
+END
+d3drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/srchybrid/DirectX/Include/d3drm.h
+END
+d3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/srchybrid/DirectX/Include/d3d.h
+END

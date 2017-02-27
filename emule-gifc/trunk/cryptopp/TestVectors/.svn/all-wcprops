@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/31/trunk/cryptopp/TestVectors
+END
+panama.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/31/trunk/cryptopp/TestVectors/panama.txt
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/cryptopp/TestVectors/Readme.txt
+END
+dlies.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/cryptopp/TestVectors/dlies.txt
+END
+ccm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31/trunk/cryptopp/TestVectors/ccm.txt
+END
+cmac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31/trunk/cryptopp/TestVectors/cmac.txt
+END
+salsa.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31/trunk/cryptopp/TestVectors/salsa.txt
+END
+sosemanuk.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/cryptopp/TestVectors/sosemanuk.txt
+END
+esign.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/cryptopp/TestVectors/esign.txt
+END
+whrlpool.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/cryptopp/TestVectors/whrlpool.txt
+END
+gcm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31/trunk/cryptopp/TestVectors/gcm.txt
+END
+dsa.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/cryptopp/TestVectors/dsa.txt
+END
+camellia.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/cryptopp/TestVectors/camellia.txt
+END
+all.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31/trunk/cryptopp/TestVectors/all.txt
+END
+hmac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31/trunk/cryptopp/TestVectors/hmac.txt
+END
+aes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31/trunk/cryptopp/TestVectors/aes.txt
+END
+ttmac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31/trunk/cryptopp/TestVectors/ttmac.txt
+END
+tea.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/cryptopp/TestVectors/tea.txt
+END
+rsa_pss.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/cryptopp/TestVectors/rsa_pss.txt
+END
+sha.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/cryptopp/TestVectors/sha.txt
+END
+eax.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31/trunk/cryptopp/TestVectors/eax.txt
+END
+shacal2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/cryptopp/TestVectors/shacal2.txt
+END
+nr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/cryptopp/TestVectors/nr.txt
+END
+seed.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31/trunk/cryptopp/TestVectors/seed.txt
+END
+dsa_1363.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/cryptopp/TestVectors/dsa_1363.txt
+END
+seal.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/cryptopp/TestVectors/seal.txt
+END
+vmac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31/trunk/cryptopp/TestVectors/vmac.txt
+END
+rw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/cryptopp/TestVectors/rw.txt
+END
+rsa_oaep.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/cryptopp/TestVectors/rsa_oaep.txt
+END
+rsa_pkcs1_1_5.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/cryptopp/TestVectors/rsa_pkcs1_1_5.txt
+END
